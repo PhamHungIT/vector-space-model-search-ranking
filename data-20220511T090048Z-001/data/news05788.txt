@@ -1,0 +1,7 @@
+Apple cập nhật iOS 14, iPadOS 14, watchOS 7 và tvOS 14
+Apple cho tải về hệ điều hành iOS 14, iPadOS 14, watchOS 7 và tvOS 14 cho điện thoại, máy tính bảng, đồng hồ thông minh của hãng hôm nay.
+iOS 14 được ra mắt Hội nghị dành cho các nhà phát triển của Apple (WWDC 2020). Các thay đổi chính bao gồm thư viện ứng dụng (App Library), bổ sung widget như điện thoại Android, thêm tính năng xem video trên màn hình chính (Picture-in-picture - PiP), thay đổi thiết kế Siri, thêm tính năng phiên dịch, tính năng riêng cho iMessage hay nâng cấp Apple Maps.
+Hệ điều hành mới của Apple có khá nhiều tiện ích nhưng bị một số ý kiến cho rằng sao chép khá nhiều từ hệ điều hành Android. Tiêu biểu như tính năng widget, xem video bên ngoài màn hình chính (PIP).
+iPad OS 14, watchOS 7 và tvOS 14 cũng được cập nhật cho máy tính bảng, đồng hồ và TV box của Apple trong cùng ngày. 
+Ngay sau sự kiện Time Files, Apple bắt đầu cho người dùng là lập trình viên cập nhật lên iOS 14 Gold Master (phiên bản gần như hoàn chỉnh). Với người dùng phổ thông, iOS 14 cũng sẽ được cập nhật chính thức muộn hơn nhưng trong cùng ngày là 16/9.
+Để được cập nhật, người dùng cần sử dụng iPhone 6S trở lên, iPhone SE thế hệ 2 và iPod Touch 7. Với iPadOS 14, hệ điều hành này cần tối thiểu là iPad Mini 4, iPad thế hệ 5 trở lên, iPad Air 2, iPad Air thế hệ 3, các đời iPad Pro.

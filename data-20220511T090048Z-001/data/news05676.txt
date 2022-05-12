@@ -1,0 +1,10 @@
+iOS 14 có bản sửa lỗi đầu tiên
+Bản cập nhật iOS 14.0.1 sửa các lỗi liên quan đến Wi-Fi, email, và tính năng thay đổi trình duyệt mặc định của máy.
+Ngoài iOS 14.0.1, Apple cũng tung một loạt bản cập nhật sửa lỗi gồm iPadOS 14.0.1, tvOS 14.0.1 và watchOS 7.0.1.
+Quý Văn
+Nếu muốn thay đổi trình duyệt Chrome thành mặc định thay Safari, người dùng vào Cài đặt > Chrome > Ứng dụng trình duyệt mặc định, rồi chọn Chrome. Thao tác thay đổi ứng dụng email cũng tương tự.
+Trong đó, lỗi mất cài đặt thư và trình duyệt mặc định liên quan đến tính năng mới của hệ điều hành. iOS 14 cho phép người dùng thay đổi trình duyệt và ứng dụng email mặc định, chẳng hạn, dùng Chrome thay Safari, Outlook thay cho Mail. Tuy nhiên, trên phiên bản iOS 14 đầu tiên, iPhone sẽ tự đặt lại cài đặt ban đầu nếu người dùng khởi động lại máy.
+Trong phần giới thiệu, Apple cho biết đây là một bản cập nhật sửa lỗi. Có 5 lỗi được Apple sửa trong bản cập nhật này, gồm: lỗi ngăn cản iPhone kết nối với các mạng Wi-Fi; lỗi ngăn cản hình ảnh xuất hiện trong tiện ích News; lỗi xem trước trên camera iPhone 7/7 Plus; lỗi ngăn cản việc gửi email với một số nhà cung cấp; lỗi mất cài đặt thư và trình duyệt mặc định.
+iOS 14.0.1 là bản cập nhật sửa lỗi đầu tiên của iOS 14, được phát hành 8 ngày sau khi hệ điều hành mới ra mắt. Bản cập nhật có dung lượng khoảng gần 200 MB, cho phép cập nhật qua hình thức OTA.
+Đây là năm đầu tiên Apple tung ra hệ điều hành mới trước khi iPhone mới ra mắt, thậm chí hãng này không thông báo đến các nhà phát triển ứng dụng. Nhiều lập trình viên cảnh báo người dùng chưa nên nâng cấp iOS ngay, bởi nhiều ứng dụng chưa kịp cập nhật có thể dẫn tới không tương thích hệ điều hành mới.
+iOS 14 mang đến nhiều cải tiến, như thêm thư viện ứng dụng (App Library), bổ sung widget như điện thoại Android, thêm tính năng xem video trên màn hình chính (Picture-in-picture - PiP), thay đổi thiết kế Siri, thêm tính năng phiên dịch, nâng cấp Apple Maps.

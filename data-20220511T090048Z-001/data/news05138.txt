@@ -1,0 +1,2 @@
+Mô phỏng cấu trúc của ADN
+ADN là phân tử mang thông tin di truyền có cấu trúc hai mạch dài quấn vào nhau với liên kết ở giữa, trông giống như cầu thang xoắn ốc.

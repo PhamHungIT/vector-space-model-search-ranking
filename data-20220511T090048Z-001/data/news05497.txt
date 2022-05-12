@@ -1,0 +1,9 @@
+Dubai dùng AI để xếp tuyến đường cho xe buýt
+UAE- Cơ quan Giao thông và Đường bộ Dubai (RTA) đang ứng dụng AI để vạch ra lộ trình di chuyển tốt nhất cho các tuyến xe bus trong thành phố.
+Dubai là một thành phố giàu có và là một trong bảy tiểu vương quốc của UAE (Các tiểu vương quốc Ả-rập thống nhất). Những năm gần đây, chính phủ nước này tập trung đẩy mạnh về công nghệ, trong đó tập trung ứng dụng AI trong nhiều lĩnh vực trọng yếu khác nhau. Giao thông công cộng là một trong số đó.
+Mahboub nhấn mạnh, việc ứng dụng AI cho điều hành xe bus sẽ góp phần cải thiện hệ thống giao thông công cộng của Dubai trong tương lai. Ngoài ra, công nghệ mới cũng góp phần tiết kiệm nhiên liệu, giảm lượng khí thải carbon ra môi trường cũng như tiết kiệm thời gian cho nhân viên.
+Hiện RTA đã thử nghiệm hệ thống AI mới trên 10 tuyến xe bus công cộng trong 30 ngày qua. Xe bus sẽ dùng Nol Card - một loại thẻ thông minh sử dụng trên các phương tiện vận tải công cộng của Dubai. Hệ thống AI sau đó sẽ dựa vào thông tin từ thẻ này để quản lý lịch trình, thời gian dừng xe bus, tuyến nào khách đi nhiều nhất, trạm nào được sử dụng nhiều nhất trong giờ cao điểm, trạm nào không có khách...
+Theo Cities Today, RTA cho biết các thuật toán machine learning cập nhật thông tin nhanh nhất, lộ trình ngắn nhất cho 2.158 xe bus trên 150 tuyến đường khắp Dubai.
+Đại diện của RTA chia sẻ, sau khi đưa vào hoạt động, hệ thống AI mới đã giúp cắt giảm 13,3% thời gian lãng phí trên các tuyến xe bus sau một tháng.
+"Bằng cách sử dụng các thuật toán AI để phân tích dữ liệu thu được, các bộ phận trong ban điều hành xe bus có thể đưa ra quyết định bỏ qua trạm dừng đó nếu không có khách, thậm chí đề xuất loại bỏ các trạm dừng vắng khách trong tương lai", Ahmed Mahboub, Giám đốc Điều hành mảng Dịch vụ Thông minh thuộc bộ phận Dịch vụ Hỗ trợ Doanh nghiệp của RTA, cho biết.
+Bảo Lâm (theo The Next Web)

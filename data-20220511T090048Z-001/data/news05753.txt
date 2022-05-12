@@ -1,0 +1,12 @@
+Hacker Iran tấn công các công ty hàng không vũ trụ Mỹ
+Ba hacker Iran bị Mỹ truy tố với tội danh tấn công mạng vào hệ thống các công ty chuyên về vệ tinh và hàng không vũ trụ của Mỹ.
+Nhóm hacker được cho là đã chọn mục tiêu từ danh sách 1.800 tài khoản trực tuyến của cá nhân có liên kết với công ty hàng không, vệ tinh, tổ chức chính phủ. Những người này hiện cư trú ở Australia, Israel, Singapore, Mỹ và Anh.
+Tuy nhiên, quan chức Mỹ khẳng định Espargham cũng là hacker mũ đen khét tiếng với biệt danh "Reza Darkcoder " và "MRSCO", đứng đầu tổ chức tin tặc Dark Coders Team chuyên tấn công các doanh nghiệp trên toàn cầu.
+Đứng đầu nhóm là Arabi, 34 tuổi, được cho là thành viên của Lực lượng Vệ binh Cách mạng Hồi giáo Iran (IRGC), từng tấn công vào công ty ở Mỹ và Anh.
+Thành viên thứ hai là Espargham, nổi tiếng trong giới hacker mũ trắng. Trong nhiều năm, người này đã phát hiện nhiều lỗi bảo mật nghiêm trọng, trong đó lỗ hổng bảo mật bên trong phần mềm Winrar. Espargham là thành viên của OWASP Foundation, một tổ chức nổi tiếng trong lĩnh vực an ninh mạng.
+Hacker thứ ba là Bayati, có vai trò tương tự Espargham, chuyên cung cấp các phần mềm độc hại tinh vi trong những cuộc tấn công.
+Cục Điều tra Liên bang Mỹ FBI cho biết, sau khi lây nhiễm mã độc trên máy tính nạn nhân, hacker dùng những công cụ chuyên dụng như Mimikatz, NanoCore và một backdoor khác để tìm dữ liệu có giá trị và gửi về máy chủ từ xa. Các công cụ này được thiết kế tinh vi để ẩn nấp trên máy tính mà nạn nhân không thể phát hiện nhằm thu thập dữ liệu cho những lần sau.
+Theo tài liệu tòa án, cả ba hacker hoạt động bằng cách tạo email và hồ sơ trực tuyến giả mạo danh tính của các cá nhân (thường là công dân Mỹ) làm trong lĩnh vực vệ tinh và hàng không vũ trụ, sau đó phát tán email kèm mã độc đính. Nếu nạn nhân bấm vào liên kết, phần mềm độc hại sẽ lây lan toàn hệ thống.
+Cũng trong ngày 17/9, Bộ Tài chính Mỹ cũng áp đặt lệnh trừng phạt với Rana Intelligence Computing Company, công ty được cho là bình phong của một nhóm hacker do Iran bảo trợ với tên gọi APT39.
+Bảo Lâm (theo Zdnet)
+Theo thông báo của Bộ Tư pháp Mỹ ngày 17/9, nhóm hacker do chính phủ Iran hậu thuẫn gồm Said Pourkarim Arabi, Mohammad Reza Espargham và Mohammad Bayati đã thực hiện chiến dịch tấn công kéo dài nhiều năm, bắt đầu từ tháng 7/2015, nhắm vào một loạt tổ chức của Mỹ ở trong nước và nước ngoài, đánh cắp thông tin liên quan đến thương mại và tài sản trí tuệ.

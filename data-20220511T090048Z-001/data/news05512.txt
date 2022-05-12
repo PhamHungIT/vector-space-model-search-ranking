@@ -1,0 +1,8 @@
+Loạt dịch vụ Microsoft lại gặp trục trặc
+Các dịch vụ đám mây của Microsoft, trong đó có Microsoft 365 và Azure, đã không thể truy cập được trong nhiều giờ từ đêm qua (giờ Hà Nội).
+Sự cố bắt đầu khuya ngày 8/10, chủ yếu liên quan đến Exchange, Outlook, Teams và SharePoint. Hiện tại, một số người dùng các dịch vụ Microsoft 365 và Azure (gồm Azure Active Directory và Azure Networking) cho biết mọi thứ vẫn chưa được khắc phục.
+Cuối tháng 9, Microsoft Outlook, Office 365, Teams và một số dịch vụ khác của Microsoft cũng ngừng hoạt động ở một số nơi. Phần lớn người dùng khó kết nối với dịch vụ trong nhiều giờ. Theo các chuyên gia, trong thời điểm thị trường điện toán đám mây đang cạnh tranh gay gắt, việc gián đoạn dịch vụ có thể khiến Microsoft "mất điểm".
+Trên Twitter, Microsoft thừa nhận vấn đề. "Chúng tôi đã điều tra nhanh và nhận thấy rằng thay đổi về hạ tầng mạng đã dẫn đến việc truy cập khó khăn", tài khoản Twitter Microsoft 365 viết. Tuy nhiên, công ty không đề cập chi tiết về các sự cố.
+Bảo Lâm (theo Techradar)
+Gián đoạn dịch vụ của Microsoft chủ yếu ảnh hưởng đến người dùng tại Mỹ. Theo một số suy đoán, có thể Microsoft đã thay đổi cấu hình hệ thống khiến các dịch vụ gặp trục trặc.
+Trên mạng xã hội, nhiều người chia sẻ rằng họ không thể truy cập vào email, cũng như các dịch vụ đám mây khác của Microsoft. Công việc của họ bị gián đoạn, bởi hầu hết đang làm việc từ xa và phụ thuộc rất nhiều vào các nền tảng trực tuyến.

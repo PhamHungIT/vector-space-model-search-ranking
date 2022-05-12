@@ -1,0 +1,9 @@
+Máy giặt tích hợp AI đầu tiên tại Việt Nam
+Dòng máy AI DD của LG có giá từ 11,49 triệu đồng, tích hợp cảm biến trọng lượng và tự động nhận biết chất liệu vải để tính toán chế độ giặt.
+LG AI DD ra mắt đầu năm 2020 tại triển lãm CES, nhưng tháng 9 mới có mặt ở Việt Nam. Dòng sản phẩm này có thiết kế cửa trước, bề ngoài không khác biệt so với các dòng máy giặt khác của LG.
+Tuy nhiên, sản phẩm được bổ sung tính năng AI, cho phép máy giặt tự nhận diện chất liệu vải để thiết lập chế độ giặt phù hợp nhất. Vì thế, so với máy giặt thông thường, LG AI DD có thể giảm thời gian giặt, tiết kiệm nước và không làm hư hỏng quần áo.
+Ngoài tính năng thông minh, dòng máy giặt mới của nhà sản xuất Hàn Quốc được nâng cấp tính năng giặt với khả năng giặt nhanh 39 phút hay chế độ vòi giũ phun đa chiều Turbo Wash 360 độ. Kích thuớc máy gọn hơn, chiều sâu giảm từ 600 mm xuống 560 mm, nhưng khối lượng giặt tăng thêm 32% và giảm rung ồn. Máy có tính năng giặt hơi nước, có thể loại vi khuẩn và giảm nhăn cho vải.
+Tuấn Anh
+Sản phẩm được tích hợp cảm biến để tính toán trọng lượng quần áo khi bỏ vào và nhận biết các chất liệu vải khác nhau. Chip xử lý trên thiết bị sẽ đối chiếu với khoảng 20.000 dữ liệu về thói quen sử dụng máy giặt để đưa ra chu trình thích hợp, bao gồm chuyển động, nhiệt độ, thời gian. Các dữ liệu này được tổng hợp thông qua công nghệ Deep Learning.
+Thiết kế của AI DD không thay đổi so với các dòng năm ngoái của LG, vẫn gồm cả dòng máy đơn và máy hai lồng giặt TWINWash. Dòng mới 2020 có hai kiểu máy giặt và giặt có sấy, khối lượng 8,5, 9 và 10,5 kg. So với thế hệ trước, các model AI DD mới cùng khối lượng có giá đắt hơn khoảng 2 triệu đồng.
+Dòng máy AI DD cũng có thể thiết lập chế độ giặt từ xa qua kết nối Wi-Fi và nền tảng ThinQ. Máy có thể tự chẩn đoán các vấn đề trục trặc khi có sự cố và thông báo qua ứng dụng trên smartphone.

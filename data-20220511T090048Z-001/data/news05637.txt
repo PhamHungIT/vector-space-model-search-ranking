@@ -1,0 +1,10 @@
+Hàng loạt dịch vụ Microsoft gặp sự cố
+Sáng nay (giờ Hà Nội) Microsoft Outlook, Office 365, Teams và một số dịch vụ khác của Microsoft ngừng hoạt động khiến nhiều người gặp rắc rối.
+Trên website báo cáo lỗi Downdetector, nhiều người cũng ghi nhận sự cố tương tự với nhiều dịch vụ trực tuyến khác của Microsoft, như nền tảng nhắn tin và gọi video Teams hay Azure Active Directory (Azure AD) - dịch vụ quản lý truy cập và nhận dạng. Nhiều người cho biết sự cố xảy ra khoảng 2h, chủ yếu liên quan đến việc đăng nhập và kết nối máy chủ. Lỗi xảy ra nhiều nhất tại Mỹ, Nhật Bản, Australia và một số nước châu Á.
+Trong một tweet vào 6h48, Microsoft cho biết đang "định tuyến lại lưu lượng truy cập đến cơ sở hạ tầng thay thế để cải thiện trải nghiệm người dùng, đồng thời tiếp tục điều tra nguyên nhân sự cố".
+Bảo Lâm (theo The Verge)
+Trên website Microsoft 365, công ty cho biết "người dùng có thể không truy cập được nhiều dịch vụ Microsoft 365", nhưng không giải thích chi tiết, cũng như nguyên nhân gây ra sự cố. Thông báo tương tự cũng xuất hiện trên Azure AD.
+3h ngày 29/9, nhiều người đăng trên mạng xã hội rằng họ không thể truy cập được các dịch vụ của Microsoft. "Tôi không thể vào Outlook lẫn Office 365. Khi truy cập, website luôn hiển thị lỗi 503. Thật khó chịu", tài khoản Chris Sweeney viết trên Twitter. Lỗi 503 xảy ra khi máy chủ quá "bận" hoặc trang web đang trong quá trình bảo trì.
+Riêng đối với Azure AD, Microsoft "đang cố gắng giải quyết sự cố gián đoạn dịch vụ". Tuy nhiên, công ty cho rằng vấn đề chỉ ảnh hưởng đến một nhóm nhỏ khách hàng thực hiện các hoạt động xác thực.
+Hiện các dịch vụ bị ảnh hưởng của Microsoft vẫn trong tình trạng khó kết nối hoặc không thể truy cập được.
+4h44 sáng nay, Microsoft bắt đầu đề cập đến sự cố về dịch vụ của mình trên Twitter. Gần hai giờ sau, hãng cho biết đã khắc phục vấn đề. Tuy nhiên, chỉ 13 phút sau đó, công ty phần mềm Mỹ tiếp tục ra tweet mới, cho biết "các kết nối không thành công có chiều hướng gia tăng".

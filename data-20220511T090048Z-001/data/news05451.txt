@@ -1,0 +1,7 @@
+Phát hiện từ trường mạnh nhất vũ trụ
+Các nhà nghiên cứu tính toán từ trường do một ngôi sao neutron phát ra có thể lên tới một tỷ Tesla theo quan sát từ kính viễn vọng không gian tia X.
+An Khang (Theo New Atlas)
+Nghiên cứu tín hiệu tia X cực mạnh phát ra từ một ngôi sao neutron, nhóm nghiên cứu đến từ Viện Hàn lâm Khoa học Trung Quốc và Đại học Tübingen, Đức, tính toán từ trường của nó mạnh gấp hàng chục triệu lần so với bất kỳ từ trường nào từng được tạo ra trong phòng thí nghiệm trên Trái Đất.
+Mang tên GRO J1008-57, ngôi sao neutron này thuộc phân nhóm đặc biệt gọi là sao xung phát tia X bồi tụ. Là một sao xung, nó phát ra những chùm bức xạ điện từ cực mạnh, truyền tới Trái Đất định kỳ giống như đèn hải đăng. Vật chất thường xuyên rơi trên bề mặt của nó, tạo ra sự bùng phát tia X có thể phát hiện bằng kính viễn vọng.
+Tín hiệu CRSF này có năng lượng 90 keV. Từ đó, các nhà nghiên cứu tính toán từ trường của ngôi sao xung lên tới một tỷ Tesla. So với nó, từ trường mạnh nhất từng được tạo ra trong phòng thí nghiệm chỉ ở mức 1.200 Tesla. Kết quả nghiên cứu được công bố trên tạp chí Astrophysical Journal Letters.
+Các nhà nghiên cứu dựa vào sự kiện bùng phát hồi tháng 8/2017 để tính toán sức mạnh từ trường của ngôi sao. Họ quan sát GRO J1008-57 bằng kính viễn vọng không gian Hard X-ray Modulation (Insight-HXMT). Nhóm nghiên cứu nhận thấy tín hiệu đặc biệt gọi là cộng hưởng cyclotron (CRSF), xuất hiện khi photon tia X phân tán từ electron plasma ở bề mặt.

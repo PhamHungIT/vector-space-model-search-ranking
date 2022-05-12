@@ -1,0 +1,3 @@
+Chó Husky nhận hàng và thanh toán tiền giúp chủ
+Khi nghe tiếng gõ cửa, Husky nhanh chóng lao ra mở cửa nhận hàng và lấy tiền thanh toán cho shipper.
+Xuka (st)

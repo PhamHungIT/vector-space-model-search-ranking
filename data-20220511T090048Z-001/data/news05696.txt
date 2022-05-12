@@ -1,0 +1,10 @@
+Huawei nói chuỗi cung ứng của hãng bị tấn công
+Trong một sự kiện tại Thượng Hải, sáng 23/9, Guo Ping, Chủ tịch luân phiên của Huawei khẳng định chuỗi cung ứng của hãng đang bị tấn công và gây sức ép.
+Huawei đã phải tự xây dựng hệ điều hành HarmonyOS sau khi bị cấm sử dụng dịch vụ của Google từ năm 2019. Nguồn chip Kirin của hãng cũng đã cạn kiệt sau khi đối tác sản xuất TSMC từ chối hợp tác. Sau đó Samsung, Panasonic cũng chính thức thông báo không cung cấp chip cho hãng khiến mảng di động của Huawei rơi vào khủng hoảng.
+Thông điệp được đưa ra trong bối cảnh Mỹ ngày càng siết chặt lệnh cấm với công ty công nghệ hàng đầu Trung Quốc. Nguồn cung của Huawei từ phần cứng đến phần mềm đều lần lượt bị gián đoạn sau những cấm vận từ chính quyền Tổng thống Trump.
+Đại diện Huawei cho biết hãng đang trải qua những ngày khó khăn, nhưng sẽ làm mọi cách để củng cố chuỗi cung ứng và đảm bảo các đối tác không bị ảnh hưởng.
+SCMP dẫn lời Richard Yu, CEO mảng thiết bị điện tử tiêu dùng của Huawei: "Thật không may, với vòng cấm vận thứ hai của Mỹ, đối tác sản xuất chip cho chúng tôi chỉ nhận đơn đặt hàng đến ngày 15/5 và quá trình sản xuất những đơn hàng này sẽ kết thúc vào 15/9. Năm 2020 có thể đánh dấu thế hệ cuối cùng của dòng chip Kirin". Ông Yu dự đoán doanh số smartphone Huawei năm 2020 có thể thấp hơn mốc 240 triệu đơn vị của năm 2019.
+Khương Nha
+"Mỹ đã liên tục tấn công chúng tôi và điều chỉnh các quy định ba lần, tạo ra những thách thức lớn tới việc sản xuất và hoạt động của chúng tôi", ông Guo Ping nói thêm trong cuộc họp báo tại sự kiện Huawei Connect 2020.
+Mặc cho những cấm vận bủa vây, kết thúc quý II vừa rồi, Huawei đã vượt qua Samsung trở thành nhà sản xuất smartphone lớn nhất thế giới. Tuy nhiên, các nhà phân tích cho rằng vị trí này sẽ sớm sụp đổ vì 70% doanh số của hãng trong quý vừa qua được bán tại Trung Quốc, trong khi thị trường quốc tế giảm 27% so với cùng kỳ năm ngoái.
+Lệnh cấm có hiệu lực từ 15/9 của Mỹ yêu cầu các nhà cung cấp toàn cầu, nếu sử dụng công nghệ của Mỹ trong sản xuất chip, không được bán linh kiện cho Huawei trừ khi được cấp phép đặc biệt.

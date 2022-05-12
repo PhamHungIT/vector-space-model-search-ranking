@@ -1,0 +1,5 @@
+Bài toán đếm vịt và chó 'hại não' của Singapore
+Bài toán lớp một tập đếm bình thường nhưng sử dụng hình ảnh thay viết rõ là vịt hay chó gây tranh cãi.
+Hóa ra sự khác biệt nằm ở ký hiệu hình vẽ. Cô học trò chỉ đếm đúng số con vịt hướng mặt về bên trái và con chó nằm ngủ. Còn cô giáo lại đếm tất cả số con vịt và con chó trong hình.
+Nancy (st)
+Mới đây, một người cô đã đăng tải bài toán đếm hình của người cháu lên mạng. Dù đáp án cô nhóc tính sai nhưng người này vẫn hào hứng chia sẻ: "Có thể đa số mọi người nghĩ rằng cháu tôi không biết đếm, nhưng thực tế, con bé rất sáng tạo, ít nhất là theo ý kiến của tôi. Tôi rất ngạc nhiên khi thấy con bé nhìn mọi thứ từ góc độ khác".

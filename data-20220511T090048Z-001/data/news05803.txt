@@ -1,0 +1,7 @@
+Razer làm lộ thông tin hơn 100.000 game thủ
+Thông tin khách hàng của Razer bị lộ trên trang web của hãng do lỗi thiết lập máy chủ.
+Huy Đức tổng hợp
+Theo chuyên gia này, việc dữ liệu khách hàng của Razer bị tung lên web là do lỗi kỹ thuật khi thiết lập máy chủ. Ông cho biết bản thân đã liên hệ với Razer nhiều lần mới nhận được phản hồi.
+Trong email trả lời Diachenko, nhà sản xuất thiết bị chơi game đã thừa nhận kỹ thuật viên đã thiết lập sai máy chủ. Tuy nhiên, không có dữ liệu quan trọng của khách hàng bị rò rỉ. Hãng cho biết đã sửa lại thiết lập sai nói trên vào ngày 9/9 vừa qua.
+Mặc dù không lộ số thẻ tín dụng, việc lộ thông tin khách hàng sẽ khiến người dùng của Razer dễ bị lừa đảo để lấy thông tin quan trọng, như mật khẩu cho tài khoản trực tuyến hoặc chi tiết thanh toán.
+Nhà nghiên cứu bảo mật Volodymyr Diachenko hôm qua đã phát hiện dữ liệu của hơn 100.000 game thủ sử dụng thiết bị của Razer đã bị lộ trên trang web của hãng từ ngày 18/8. Thông tin cá nhân bị công khai gồm email, số điện thoại và loại sản phẩm đã mua. Thông tin về thẻ tín dụng không xuất hiện trong tệp dữ liệu này.

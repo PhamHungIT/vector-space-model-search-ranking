@@ -1,0 +1,11 @@
+Huawei sẽ đầu tư một tỷ USD cho HarmonyOS
+Huawei cho biết sẽ đầu tư một tỷ USD để xây dựng hệ sinh thái ứng dụng cho HarmonyOS, cũng như giảm chi phí cho nhà phát triển.
+Đối với các nhà phát triển HarmonyOS, Huawei sẽ cung cấp IDE (môi trường tích hợp dùng để viết code phát triển ứng dụng) trên đa thiết bị. Hệ thống này sẽ làm nhiệm vụ biên dịch đa ngôn ngữ một cách thống nhất, tự động thích ứng với trình điều khiển có bố cục màn hình khác nhau, đồng thời hỗ trợ cả giao diện điều khiển kéo thả và lập trình trực quan.
+Trong khi đó, theo Richard Yu, Giám đốc mảng Kinh doanh Tiêu dùng của Huawei, để thu hút các nhà phát triển, công ty sẽ giảm việc thu phí xuống mức thấp nhất có thể, từ 10 đến 15%. Mức này hiện chỉ bằng nửa so với 30% mức thu của Apple và Google với các nhà phát triển ứng dụng trên App Store và Play Store.
+Để sẵn sàng cho HarmonyOS, Huawei cũng đã đẩy mạnh Huawei Mobile Services (HMS) - hệ sinh thái ứng dụng mới nhằm thay thế cho Google Mobile Services (GMS) của Google. Tại sự kiện, công ty Trung Quốc cho biết HMS đang là hệ sinh thái ứng dụng lớn thứ 3 thế giới hiện nay.
+Bảo Lâm (theo Huawei Central)
+Cũng theo ông Yu, HarmonyOS sẽ là nền tảng mã nguồn mở như Android, giúp hệ điều hành mới tiếp cận nhiều nhà phát triển, đồng thời làm phong phú thêm hệ sinh thái.
+Sau một năm ra mắt, HarmonyOS đã nâng cấp phiên bản 2.0. Hệ điều hành vẫn tiếp tục hỗ trợ từ đồng hồ thông minh, Smart TV, thiết bị giải trí trên xe hơi... Tuy nhiên, phải đến năm sau nền tảng này mới có mặt cho smartphone.
+Bên cạnh đó, Huawei cũng đã thu hút được hơn 1,8 triệu nhà phát triển trên toàn cầu. Kho AppGallery hiện có hơn 96.000 ứng dụng được tích hợp với HMS Core và hơn 490 triệu người dùng thường xuyên. Từ tháng một đến tháng 8/2020, kho ứng dụng này cũng nhận được 261 tỷ lượt tải.
+Theo đại diện Huawei, IDE mới cho phép nhà phát triển xây dựng ứng dụng chạy trên nhiều thiết bị hiệu quả hơn. Họ có thể viết mã ứng dụng của họ một lần và triển khai chúng trên nhiều sản phẩm, tạo ra một hệ sinh thái tích hợp chặt chẽ ở tất cả thiết bị của người dùng.
+Tại buổi họp báo giới thiệu HarmonyOS 2.0 hôm 10/9, Zhang Ping'an, Chủ tịch mảng Dịch vụ đám mây của Huawei, cho biết kế hoạch chi một tỷ USD chủ yếu hỗ trợ các nhà phát triển. 80% trong số đó sẽ được chi ra nước ngoài.

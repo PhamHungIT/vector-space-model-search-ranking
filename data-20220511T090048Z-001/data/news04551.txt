@@ -1,0 +1,10 @@
+Thang điểm tiên lượng nguy cơ tử vong bệnh nhân Covid-19
+Thang điểm tử vong được các nhà khoa học Anh xây dựng, giúp dự đoán nguy cơ bệnh nhân Covid-19 tử vong để đưa ra quyết định lâm sàng nhanh.
+Thang điểm đánh giá nguy cơ từ 0 đến 21. Bệnh nhân số điểm từ 15 trở lên có 62% nguy cơ tử vong so với 1% ở những bệnh nhân từ 3 điểm trở xuống.
+Thang điểm có tên là điểm tử vong 4C, viết tắt của "Coronavirus Clinical Characterization Consortium", được hiểu là tập hợp triệu chứng lâm sàng khi nhiễm nCoV. Mô hình tập hợp các thông tin gồm tuổi, giới tính, bệnh lý nền, nhịp thở và nồng độ oxy trong máu bệnh nhân.
+Thang điểm gồm bốn cấp độ nguy cơ tử vong thấp, trung bình, cao và rất cao, được công bố trên tạp chí y khoa BMJ hôm 10/9. Bác sĩ đánh giá bệnh nhân Covid-19 thuộc một trong bốn nhóm nguy cơ tử vong này, từ đó có phương án chăm sóc, điều trị phù hợp.
+Các bệnh viện trên khắp thế giới đang phải đối mặt với đại dịch Covid-19. Các bác sĩ cần các thang điểm tiên lượng nguy cơ nhanh và chính xác hơn, từ đó xác định những bệnh nhân có nguy cơ tử vong cao nhất và đạt mục tiêu điều trị.
+Những bệnh nhân có điểm tử vong 4C thấp có thể không cần nhập viện. Người thuộc nhóm nguy cơ trung bình và cao hơn cần nhanh chóng điều trị tích cực, trong đó có thuốc steroid và chăm sóc đặc biệt với bệnh nhân nặng.
+Kết quả nghiên cứu cho thấy mô hình 4C có thể dự đoán nguy cơ chính xác hơn 15 mô hình tương tự.
+Nguyễn Ngọc (Theo Reuters)
+Ewen Harrison, Giáo sư phẫu thuật và khoa học dữ liệu tại Đại học Edinburgh, dẫn đầu nghiên cứu, cho biết: "Mô hình chứng tỏ tầm quan trọng của thông tin mang tính hướng dẫn bác sĩ chăm sóc tối ưu cho người bệnh nặng nhất".

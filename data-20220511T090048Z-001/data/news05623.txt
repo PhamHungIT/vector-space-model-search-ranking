@@ -1,0 +1,13 @@
+iPhone 12 sẽ không có tai nghe đi kèm
+Trên iOS 14.2 beta, Apple không đề cập đến việc "tai nghe được cung cấp", dấu hiệu cho thấy công ty sẽ bỏ phụ kiện này trên iPhone mới.
+Apple được cho là sẽ ra mắt 4 phiên bản iPhone 12 gồm iPhone 12, 12 Max, 12 Pro và 12 Pro Max trong tháng 10, chậm hơn khoảng một tháng so với mọi năm.
+"Để giảm việc tiếp xúc với năng lượng từ RF, hãy sử dụng các tùy chọn rảnh tay, chẳng hạn loa ngoài, tai nghe hoặc các phụ kiện tương tự", dòng chữ bên trong mã nguồn iOS 14.2 viết. Còn với các bản iOS trước đây, nội dung này được viết là: "Để giảm việc tiếp xúc với năng lượng từ RF, hãy sử dụng các tùy chọn rảnh tay, chẳng hạn loa ngoài, tai nghe được cung cấp, hoặc các phụ kiện tương tự".
+Thông tin Apple bỏ tai nghe được "chuyên gia tin đồn" Ming-chi Kuo đề cập lần đầu hồi tháng 5. Nhà phân tích này tiết lộ, Apple sẽ không bán kèm EarPods, thay vào đó, công ty sẽ giới thiệu một số hình thức ưu đãi mới nhằm khuyến khích người dùng mua AirPods.
+Một số chuyên gia đánh giá, ghi chú mới bên trong iOS 14.2 có thể là dấu hiệu cho thấy Apple sẽ không còn cung cấp tai nghe EarPods trong hộp iPhone 12.
+Cũng theo Kuo, Apple sẽ bỏ củ sạc theo iPhone 12. Như vậy, máy sẽ chỉ bán ra với cáp Lightning. Bộ đôi Apple Watch mới ra mắt gần đây cũng chỉ bán kèm dây cáp.
+Việc cắt phụ kiện của Apple được đánh giá là sẽ mang tới một số lợi ích, chẳng hạn làm kích thước hộp đựng iPhone 12 nhỏ hơn, giảm phí nguyên liệu làm hộp, chi phí vận chuyển hàng hóa và một số lợi ích về môi trường. Đồng thời, nó cũng giúp người dùng tận dụng lại các phụ kiện cũ.
+Theo phát hiện của MacRumors, một số nội dung liên quan đến sóng RF (tần số vô tuyến) trên iOS 14.2 đã được Apple thay đổi. Nếu các phiên bản iOS trước đây, Apple sử dụng cụm từ "tai nghe được cung cấp", iOS 14.2 đã loại bỏ từ "được cung cấp", chỉ còn từ "tai nghe".
+Tháng 7, tài khoản Twitter Ran Avni đã chia sẻ bản vẽ CAD về khay đựng trong hộp iPhone 12 mới, dựa trên "nguồn đáng tin cậy". Theo bản vẽ này, hộp đựng của iPhone 12 chỉ để vừa sách hướng dẫn và cáp Lightning.
+Còn theo tài khoản Twitter @L0vetodream, hộp iPhone mới sẽ mỏng hơn nhiều so với hiện tại. Gần đây, chính Apple cũng lộ ý định "cắt" phụ kiện iPhone 12 khi thực hiện các khảo sát người dùng tại Brazil về củ sạc USB Power Adapter.
+Tuy nhiên, ý kiến này cũng vấp phải không ít phản ứng tiêu cực từ cộng đồng, dù chưa chính thức. Hầu hết cho rằng thay đổi là chiêu trò "hút máu" người dùng vì họ phải bỏ thêm tiền mua phụ kiện thường dùng.
+Bảo Lâm (theo Phonearena)

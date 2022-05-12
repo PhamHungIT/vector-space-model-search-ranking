@@ -1,0 +1,9 @@
+iPhone chạy iOS 14 sẽ báo hiệu khi bị nghe lén
+iOS 14 bổ sung dấu chấm màu xanh hoặc màu cam ở góc trái màn hình iPhone, báo hiệu điện thoại có đang sử dụng camera hoặc micro hay không.
+Trong trường hợp, nếu thấy dấu chấm màu xanh hoặc cam, nhưng người dùng không sử dụng ứng dụng nào liên quan đến camera hay micro, Apple khuyến cáo, rất có thể một ứng dụng nào đó đang truy cập trái phép hai tiện ích này.
+Bảo Lâm (theo PetaPixel)
+Dấu chấm thông báo camera và micro trên iOS 14 là nỗ lực của Apple nhằm giúp người dùng kiểm soát quyền riêng tư tốt hơn. Trước đó, trong bản beta, tính năng này đã giúp người dùng iPhone phát hiện Instagram tự kích hoạt camera trên thiết bị. Phía Instagram nói đây đơn giản chỉ là lỗi phần mềm.
+Người dùng có thể xóa ứng dụng đang truy cập trái phép camera hoặc micro hoặc thu hồi quyền này trong phần cài đặt ứng dụng.
+Theo Apple, dấu chấm màu xanh trên iPhone chạy iOS 14 sẽ báo hiệu một ứng dụng nào đó đang sử dụng camera, còn dấu chấm màu cam cho thấy ứng dụng đang dùng micro.
+Lúc này, người dùng có thể vào Control Center để tìm xem ứng dụng đó là gì. Với những iPhone màn hình "tai thỏ", như iPhone X, XS, 11 Pro..., người dùng có thể vuốt từ góc màn hình bên phải xuống. Tại đây, sẽ tìm thấy tên ứng dụng đang truy cập camera hoặc micro. Với những iPhone không có "tai thỏ", như iPhone 7, iPhone 8 hay iPhone SE, người dùng vuốt từ màn hình phía dưới lên để vào Control Center.
+Bên cạnh dấu chấm thông báo mới, iOS 14 cũng phát hiện ứng dụng đọc bộ nhớ tạm. Tính năng này đã "vạch mặt" nhiều ứng dụng như TikTok, Reddit, LinkedIn... đọc clipboard của người dùng, buộc các công ty đứng sau phải thay đổi.

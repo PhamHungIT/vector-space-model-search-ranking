@@ -1,0 +1,8 @@
+Google làm Android TV Box siêu mỏng
+Thiết bị mới của Google nhỏ bằng chiếc bánh quy nhưng sẽ biến TV thường thành Smart TV, hỗ trợ điều khiển giọng nói và xem phim trực tuyến.
+Sản phẩm được Google trang bị chip 4 nhân của Amlogic có tích hợp đồ hoạ Mali-G31MP2. Bộ nhớ trong được dự đoán là 16 GB đi kèm 2 GB RAM. Với cấu hình này, thiết bị có thể chạy Android TV để chơi game, xem video trực tuyến.
+Mẫu Android TV siêu mỏng của Google sẽ cạnh tranh với thiết bị Mi TV Stick mới ra mắt gần đây của Xiaomi. Nếu xét về tính cơ động, thiết bị của Google được thiết kế còn nhỏ gọn hơn.
+Trên điều khiển đi kèm, Google tích hợp phím trợ lý ảo Google Assistant cho thấy thiết bị có hỗ trợ điều khiển bằng giọng nói. Ngoài ra, nó còn có hai phim riêng để kích hoạt nhanh các dịch vụ video trực tuyến thông dụng như Netflix và YouTube. Tuy nhiên, các phím điều chỉnh âm lượng hay truyền hình đều bị lược bỏ.
+Nó có kiểu dáng giống các bộ thu phát hình ảnh và video không dây Chromecast trước kia. Kích thước như một chiếc bánh quy hay quả trứng cán mỏng, nhỏ gọn trong lòng bàn tay. Nó có tông màu trắng thay vì đen như Chromecast nhưng vẫn được tích hợp sẵn dây cable HDMI, nên dễ dàng gắn trực tiếp vào cổng HDMI phía lưng TV.
+Mỹ Anh (theo GSM Arena)
+Sản phẩm vẫn chưa có tên gọi chính thức nhưng nhiều khả năng sẽ được Google công bố trong sự kiện trực tuyến diễn ra vào ngày 30/9 tới. Thiết bị mang tên mã Sabrina này còn có thể là Android TV Box nhỏ gọn nhất trên thị trường.

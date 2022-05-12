@@ -1,0 +1,13 @@
+Huawei vẫn nâng cấp EMUI 11 dù vừa ra HarmonyOS
+EMUI được Huawei cập nhật lên phiên bản 11 dựa trên Android 10 với nhiều tính năng mới dù đã ra mắt hệ điều hành riêng HarmonyOS.
+Để truy cập vào cài đặt này, người dùng chỉ cần mở đa nhiệm (vuốt và giữ từ dưới lên) và chọn biểu tượng chạy đa nhiệm bên cạnh các ứng dụng đang chạy nền. Ở chế độ chia màn hình, người dùng có thể chọn thay đổi ứng dụng đa nhiệm hiện tại bằng nít truy cập nhanh các phần mềm hỗ trợ đặt ngay bên cạnh phải.
+Trên EMUI 11, máy sẽ hiển thị thông báo khi có bất kỳ ứng dụng chạy nền nào sử dụng đến dữ liệu vị trí, máy ảnh hoặc micro ghi âm của điện thoại. Các ứng dụng này cũng có tùy chọn nhanh cấm hoàn toàn việc sử dụng các dữ liệu nói trên. Huawei cũng cho phép chủ sở hữu xem lại lịch sử quyền truy cập của các ứng dụng.
+Mở cùng lúc ba ứng dụng của điện thoại trên máy tính
+Tăng khả năng bảo vệ quyền riêng tư và bảo mật như iOS 13
+Tính năng Multi-screen Collaboration 3.0 được nâng cấp cho phép các laptop Huawei, Honor có thể kết nối với điện thoại của hãng và sử dụng trực tiếp trên màn hình máy tính. Trong cùng thời điểm, chế độ này cho phép hoạt động 3 ứng dụng điện thoại cùng lúc.
+Màn hình luôn hiển thị (Always On Display)
+Ở tính năng chia sẻ ảnh, người dùng có thêm lựa chọn xóa vị trí, thời gian chụp và các dữ liệu chi tiết khác về bức ảnh.
+Với EMUI 11, điện thoại Huawei có thể hiển thị các cửa sổ ứng dụng, di chuyển trên màn hình nền và thay đổi kích thước như khi sử dụng trên máy tính Windows, macOS. Các model có màn hình lớn như Huawei Mate XS sẽ hỗ trợ mở hai cửa sổ cùng lúc trên hình nền.
+So với phiên bản cũ, tính năng màn hình luôn hiển thị trên EMUI 11 có một trình cài đặt riêng với rất nhiều lựa chọn giao diện khác nhau. Người dùng có thể chọn các kiểu biểu tượng với ba sự kết hợp về màu sắc khác nhau. Ngoài ra, máy cũng cho phép sử dụng ảnh riêng dạng tĩnh hoặc tạo ảnh gif để thay thế cho các giao diện cài đặt Always On Display có sẵn.
+Không giống bản EMUI 10 có đầy đủ các dịch vụ của Google, EMUI 11 dựa trên lõi của mã nguồn mở Android và tích hợp sẵn các dịch vụ riêng của Huawei. Phiên bản mới này sẽ được Huawei cập nhật cho các điện thoại và máy tính bảng ra mắt từ cuối năm 2019. Trong số này hầu hết là thiết bị di động chạy hệ điều hành Android nhưng không có quyền truy cập vào các dịch vụ Google như dòng Mate, dòng P30, Nova 5 trở lên và nhiều thiết bị thuộc các thương hiệu con là Honor, Enjoy hay các máy tính bảng MatePad pro, M6 và 10.8.
+Chạy ứng dụng đa nhiệm như máy tính

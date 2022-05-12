@@ -1,0 +1,8 @@
+Giá sản xuất của Galaxy Note20 Ultra 5G là 549 USD
+Samsung đã chi 549 USD cho linh kiện sản xuất Galaxy Note20 Ultra 5G, trong khi bán sản phẩm với giá 1.299 USD.
+Theo thống kê của Counterpoint Research, bộ phận quan trọng nhất trên Galaxy Note20 Ultra 5G là model Snapdragon X55 5G của Qualcomm và ăng-ten RF. Trong đó, chip 5G Snapdragon X55 tích hợp trong vi xử lý Qualcomm Snapdragon 865+ có giá 57 USD. Còn ăng-ten RF giá 97,2 USD vì hỗ trợ mạng 5G mmWare tốc độ cao. Cả cụm chiếm 154,2 USD. Theo nhà phân tích Ethan Qi, tổng chi phí linh kiện hỗ trợ mmWave có giá cao hơn khoảng 10% so với Sub-6.
+Camera và hệ thống chip nhớ (RAM và bộ nhớ trong) có giá trị lần lượt là 60,3 USD và 61,5 USD. Riêng pin giá 11,6 USD. Nếu tính cáp sạc (6 USD), bút S Pen (25 USD) và tai nghe AKG (5 USD) đi kèm, tổng giá trị mà Samsung chi trả để sản xuất một chiếc Galaxy Note20 Ultra 5G là 548,9 USD.
+Bảo Lâm (theo Sammobile)
+Màn hình cũng là bộ phận có giá trị lớn trong Galaxy Note20 Ultra 5G - 91,5 USD. Cụm màn hình sử dụng tấm nền OLED, được "nhúng" cảm biến vân tay và hệ thống điều khiển bên trong.
+Hiện giá bán ra của máy là 1.299 USD. Phần chênh lệch (750 USD) được hãng chi cho các công đoạn nghiên cứu và phát triển, xin giấy phép, tiếp thị...
+Một số chuyên gia dự đoán Samsung kiếm được nhiều tiền hơn từ các model Galaxy Note20 Ultra 5G chạy chip Exynos. Counterpoint Research không đề cập đến chi phí linh kiện của mẫu Note chạy chip này, nhưng tiết lộ 70% phần cứng trên đó do công ty tự sản xuất.

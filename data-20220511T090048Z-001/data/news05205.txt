@@ -1,0 +1,8 @@
+Công nghệ quét 3D lấy số đo cơ thể trong 5 giây
+Nhờ công nghệ quét 3D, việc may đo thành phẩm được rút gọn chỉ trong hai giờ, thu thập những thông số mà thước đo thường không lấy được.
+Hệ thống quét được lắp đặt trong phòng may đo riêng, gồm 8 bộ camera và thiết bị quét tia laser. Máy quay chụp 360 độ, lấy toàn bộ mọi góc cạnh. Sau đó, một mô hình 3D của cơ thể được xuất hiện trên hệ thống.
+Những thông số may đo trên cơ thể bằng phương pháp này giúp quần áo được thiết kế phù hợp với nhu cầu của người mặc hơn. "So với phương pháp đo truyền thống bằng thước, công nghệ quét 3D có thể hiển thị nhiều thông số chi tiết hơn chiều cao và vòng eo. Ví dụ như vấn đề lệch vai rất khó đo chính xác bằng phương pháp truyền thống", Ning Xiaobo, Giám đốc Kỹ thuật của xưởng may thông minh cho biết.
+Xưởng sản xuất thông minh của công ty Appearel Ecological City (tỉnh Hà Bắc, Trung Quốc) áp dụng một trải nghiệm may đo mới nhờ công nghệ quét 3D. Công nghệ này hỗ trợ lấy số đo cơ thể trong 5 giây, giúp việc hoàn thành một bộ trang phục theo yêu cầu chỉ trong vòng hai giờ.
+Nguyễn Xuân (Theo Xinhua)
+Trong 5 giây, 36 thông số bao gồm chiều dài thân trước và lưng, chu vi cổ áo, vòng ngực, vòng bụng và chu vi đầu gối... lần lượt được thu thập vào hệ thống. Các dữ liệu này được truyền trực tiếp xuống xưởng may qua phần mềm thiết kế và máy cắt CNC.
+Số đo của mỗi người đều khác nhau. Ngày nay, quần áo được sản xuất theo tiêu chuẩn hóa và rất khó phù hợp với nhiều người. Sử dụng công nghệ quét 3D để thu thập dữ liệu 360 độ, thông tin thu được toàn diện hơn. Ngoài ra, công nghệ quét 3D đang được nghiên cứu để tích hợp thêm AI để hỗ trợ tư vấn kiểu dáng trang phục và lưu trữ thông tin phục vụ cho lần may đo tiếp theo.

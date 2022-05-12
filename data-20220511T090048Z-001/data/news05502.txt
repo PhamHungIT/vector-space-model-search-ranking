@@ -1,0 +1,7 @@
+Google Maps thêm cảnh báo lũ tại miền Trung
+Bản đồ Google xuất hiện cảnh báo các khu vực bị ảnh hưởng bởi lũ lụt tại miền Trung, vào chiều ngày 9/10.
+Kết quả này xuất hiện trên cả bản web và ứng dụng di động. Khi bấm vào, người dùng có thể chia sẻ kết quả này cho người khác, thông báo vị trí hiện tại của mình cho người thân, hoặc bổ sung thông tin để cảnh báo.
+Đây không phải lần đầu tiên Google bổ sung cảnh báo thời tiết nguy hiểm cho người dùng Việt. Hồi tháng 8/2019, khi bão Wipha tiến vào Việt Nam, bản đồ Google cũng hiển thị đường đi cùng các thông tin về bão ngay trên ứng dụng. Thời điểm Covid-19 diễn ra tại Đà Nẵng, ứng dụng có thêm thông tin về các khu vực đường cấm, hoặc không mở cửa, để người dùng tránh lui tới. Ngoài ra, Google Maps vẫn đang cảnh báo tình trạng tắc đường tại các thành phố lớn của Việt Nam mỗi ngày.
+Khi tìm kiếm với từ khóa "lũ lụt miền Trung", kết quả trả về của Google xuất hiện thêm hộp thông tin từ Google Maps, hiển thị các khu vực bị ảnh hưởng bởi lũ lụt. Trong tối ngày 9/10, bản đồ của Google thể hiện năm khu vực tại miền Trung đang bị ngập, trải dài từ tỉnh Quảng Bình đến tỉnh Quảng Ngãi.
+Việc xuất hiện ngay trong kết quả tìm kiếm, giúp người dùng dễ dàng theo dõi các khu vực bị ảnh hưởng bởi lũ lụt, nhưng thông tin còn sơ sài. Dữ liệu về lũ lụt được Google tham khảo từ Trung tâm Dự báo khí tượng thủy văn quốc gia và Hệ thống giám sát thiên tai tại Việt Nam.
+Lưu Quý

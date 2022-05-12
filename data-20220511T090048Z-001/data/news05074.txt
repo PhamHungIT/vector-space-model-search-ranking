@@ -1,0 +1,13 @@
+Vì sao khoe vé máy bay lên mạng lại nguy hiểm?
+Tấm vé máy bay chứa nhiều thông tin cá nhân như mã chuyến bay, giờ khởi hành, số ghế ngồi... - những thứ hành khách không nên công khai.
+Bạn có thể bị lộ ngày tháng năm sinh, số hộ chiếu hoặc thẻ căn cước, số điện thoại, địa chỉ email, thẻ ATM hoặc visa, chuyến bay, giờ lên máy bay, sân bay khởi hành, điểm đến, số ghế bởi mã định dạng đặt chỗ PNR (Passenger Name Record).
+Chuyên gia công nghệ người Mỹ Brian Krebs đưa thêm lời khuyên, sau khi chuyến bay kết thúc, bạn không nên vứt vé đi ngay. Thay vào đó, hãy xé nhỏ chúng trước khi vứt bỏ. Như vậy, không ai có thể quét được mã vạch và biết mọi thông tin về bạn.
+Những tên trộm có thể biết khi nào họ vắng nhà để đột nhập hay mạo danh chủ nhà để thực hiện những hành động xấu. Lời khuyên của Lisa là không nên đăng ảnh vé máy bay lên mạng xã hội. Bạn cũng không nên để lộ đích danh hãng hàng không mà bạn chuẩn bị bay.
+Anh Minh (Theo Express)
+Không ít hành khách mắc lừa, nhấp vào đường dẫn tới website đánh cắp thông tin của họ và những việc tồi tệ sau đó sẽ xảy ra như mất tiền, mất tài khoản...
+Chụp lại vé máy bay để khoe trên mạng xã hội là sở thích của nhiều người, nhưng hành động này lại tiềm ẩn nhiều nguy hiểm. Lisa Forte, chuyên gia an ninh mạng, cho biết từ mã vạch trên vé máy bay, kẻ xấu có thể lấy nhiều thông tin cá nhân của chủ vé từ họ tên đầy đủ.
+Khi đó, kẻ xấu tạo ra một email giả mạo từ hãng hàng không và gửi cho khách hàng với nội dung: "Nếu bạn cũng muốn một suất ăn chay cho chuyến về, vui lòng nhấp vào liên kết này để đặt ngay bây giờ" hoặc "Chuyến bay về London của bạn có quá nhiều người đặt chỗ. Vì bạn là khách hàng quan trọng, chúng tôi muốn nâng cấp bạn lên hạng thương gia, vui lòng nhấp vào liên kết bên dưới để hưởng ưu đãi".
+PNR cũng hiển thị mọi yêu cầu dịch vụ đặc biệt (SSR) như bữa ăn, lý do chọn hoặc tránh một số món ăn, tình trạng sức khỏe của bạn: người khuyết tật, vấn đề về tâm lý, y tế mà bạn khai báo khi mua vé...
+"Ví dụ bạn là kẻ xấu, còn tôi là nạn nhân. Bạn biết tôi đang bay từ London đến Bangkok bằng British Airways. Chuyến bay về của tôi vào thứ hai tuần sau. Tôi bay hạng phổ thông, yêu cầu một bữa ăn chay", Lisa lấy ví dụ.
+Vì sao khách luôn lên cửa bên trái máy bay?
+PNR hay "tham chiếu đặt chỗ" - gồm sáu chữ số, là định danh nội bộ của một hãng hàng không cho chuyến bay của bạn. Chuỗi ký tự này được tạo bởi hệ thống máy tính của hãng bay, không phải từ các đại lý du lịch. Bạn chỉ nhìn thấy 6 ký tự này khi hãng xác nhận yêu cầu đặt chỗ của bạn thành công. Mã này không chỉ chứa thông tin về bạn, mà còn có thể là thông tin cá nhân của những người bạn đặt vé giúp.

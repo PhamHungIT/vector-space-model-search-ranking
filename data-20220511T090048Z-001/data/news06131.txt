@@ -1,0 +1,4 @@
+Số lớn nhất bạn có thể tạo ra từ 0, 7, 2 là bao nhiêu?
+Bạn có trả lời đúng chỉ trong một lần tính khi được dùng mọi phép toán không?
+>> Xem đáp án 
+Nancy (st)

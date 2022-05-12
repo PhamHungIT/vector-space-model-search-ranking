@@ -1,0 +1,8 @@
+AI tính tuổi sinh học qua một bức ảnh
+Một nhóm nhà khoa học Trung Quốc đã phát triển thành công công cụ sử dụng AI có khả năng tính tuổi sinh học của con người từ một bức chân dung.
+Nghiên cứu của Han gợi mở về khả năng sử dụng công nghệ để quản lý các vấn đề liên quan tới lão hóa dân số ở Trung Quốc, tuy nhiên, cũng nhấn mạnh rằng thông tin sinh trắc học phải được bảo vệ nghiêm ngặt. "Chúng nên được kiểm soát cẩn thận chống lại bất kỳ hành động sử dụng trái đạo đức nào", trưởng nhóm nghiên cứu nói.
+Đăng Thiên (theo SCMP)
+Công nghệ này dựa trên một thuật toán AI được gọi là mạng nơ-ron phức hợp sâu (Convolutional neural network), nhằm tạo ra một "công cụ xác định tình trạng sức khỏe", nghiên cứu cho biết.
+Tuổi sinh học là một chỉ số đánh giá dựa trên các dấu ấn sinh học và có thể thay đổi do lối sống và các yếu tố sức khỏe. Nhóm nghiên cứu từ Đại học Bắc Kinh và Đại học Giao thông Thượng Hải đã phát triển hệ thống nghiên cứu sử dụng AI để đo tuổi sinh học, được xây dựng trên cơ sở dữ liệu gồm 5.000 đặc điểm khuôn mặt của nhiều người theo không gian ba chiều và thông tin sức khỏe liên quan.
+Nhóm nghiên cứu đã thử nghiệm hệ thống đo tuổi bằng AI trên hàng trăm người ở Bắc Kinh và thấy rằng nó không chỉ đạt được sai số nhỏ giữa số tuổi khai sinh và tuổi sinh học của đối tượng (2,7 tuổi) mà còn giải thích lý do mọi người già đi rõ ràng hơn so với các phương pháp khác xét nghiệm máu.
+Hệ thống trí tuệ nhân tạo này cũng cho phép nhóm của Han xây dựng danh mục những người mắc bệnh già hóa sinh học với chi phí tương đối thấp. Kết quả cho thấy các biện pháp can thiệp lão hóa trong giai đoạn 40 đến 50 tuổi có thể bị ảnh hưởng bởi các yếu tố, như hormone tăng trưởng hoặc các bệnh có xu hướng xảy ra ở những người lớn tuổi.

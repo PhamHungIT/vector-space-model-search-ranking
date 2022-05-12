@@ -1,0 +1,9 @@
+Năm câu đố thử thách tư duy
+Trong 10 giây, liệu bạn có thể điền vị trí dấu hỏi chấm vào câu đố toán học hay tìm mật mã để mở khóa từ một vài gợi ý.
+Câu 5: Điền các ký hiệu Toán học để được phép tính đúng.
+Câu 4: Điền các số bên phải vào các ô màu bên trái (mỗi số một lần) để được bốn phép tính đúng.
+Câu 2: Tìm mật mã để mở khóa từ gợi ý đã cho.
+Câu 1: Điền số thích hợp vào vị trí dấu hỏi chấm.
+Câu 3: Sắp xếp các số, ký hiệu Toán học thành phép tính có đáp số bằng 2.
+>>Đáp án
+Theo Power of Enjoyment

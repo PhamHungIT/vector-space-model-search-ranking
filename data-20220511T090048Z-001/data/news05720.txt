@@ -1,0 +1,8 @@
+Cáp Lighting cấy sẵn chip độc hại
+O.MG có vẻ ngoài giống cáp Lightning thông thường nhưng bên trong gắn chip theo dõi, cho phép hacker tấn công và đánh cắp dữ liệu từ xa.
+Bảo Lâm (theo Forbes)
+Khi cắm iPhone vào máy tính mục tiêu, O.MG bắt đầu truyền tín hiệu về máy chủ từ xa qua sóng radio. Qua đó, một thiết bị cách đó khoảng 100 mét có thể điều khiển mọi thao tác, kể cả đánh cắp mật khẩu. Bên cạnh đó, nếu trước đây O.MG chỉ thực sự hoạt động khi cắm vào máy tính, giờ đây nó có thể thu thập dữ liệu khi cắm với củ sạc.
+Grover thừa nhận khoảng cách tấn công hiện nay chỉ khoảng 100 mét. Tuy nhiên, hệ thống có thể được cấu hình lại để thực hiện các hành vi hack ở khoảng cách không giới hạn, miễn là nơi đó có Internet. Ông cũng cho biết, cáp mới được tích hợp firmware riêng, cho phép gửi vị trí tự động cũng như có thể tự hủy thông tin nếu bị phát hiện.
+Nhà nghiên cứu bảo mật Mike Grover, người tạo ra O.MG, cho biết: "Tôi đã làm việc trong 12 tháng qua để thu nhỏ bo mạch. Giờ đây, bo mạch này nhỏ hơn 25% và các thành phần bên trong đều được sửa đổi để có thể gắn thêm bộ nhớ lưu trữ".
+O.MG có thiết kế tương tự cáp Lightning từng được giới thiệu năm ngoái tại Hội nghị bảo mật Defcon. Nếu như trước đây sợi cáp có thiết kế khá thô và dễ nhận biết, phiên bản mới gần giống cáp của Apple và rất khó nhận biết.
+Với ngoại hình y hệt Lightning thông thường, một số chuyên gia cho rằng O.MG có thể bị lợi dụng để tấn công. Chẳng hạn, hacker có thể tặng cáp cho mục tiêu định trước. Bên cạnh đó, những người dùng iPhone thường xuyên có thói quen mượn cáp sạc của người khác cũng có nguy cơ bị hack, đặc biệt là ở những nơi như khách sạn, phòng chờ sân bay...

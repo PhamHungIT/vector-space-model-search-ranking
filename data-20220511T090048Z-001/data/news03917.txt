@@ -1,0 +1,5 @@
+Bài toán 'cầu kính 7 ô vuông'
+Bài toán nằm trong đề thi chọn đội tuyển Junior Việt Nam (12-13 tuổi) tham dự kỳ thi Toán học trẻ quốc tế năm 2013 tại Bulgaria.
+Đề bài:
+Hình dưới đây biểu diễn một cái hồ hình chữ nhật kích thước 26 m x 17 m. Bên trong hồ là hệ thống cầu kính gồm 7 hình vuông giống nhau với 4 điểm chạm nằm trên 4 cạnh hình chữ nhật. Hãy tính diện tích và chu vi của hệ thống cầu kính.
+Trần Phương

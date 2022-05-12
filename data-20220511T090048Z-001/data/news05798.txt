@@ -1,0 +1,23 @@
+Apple sẽ ra sản phẩm gì tại sự kiện đêm nay
+Apple nhiều khả năng sẽ không ra iPhone tại sự kiện "Time Flies" diễn ra 0h ngày 16/9 (giờ Hà Nội), thay vào đó là Apple Watch và iPad Air mới.
+iOS 14 và iPad 14
+Theo Jon Prosser, tài khoản thường đăng các tin đồn chính xác về Apple, Watch mới sẽ có tên đơn giản là Apple Watch. Trong khi đó, Phonearena dự đoán máy sẽ được đặt là Apple Watch SE, tương tự các model iPhone SE "giá rẻ" trước đó.
+iOS 14 không có nhiều thay đổi về giao diện ngoài tính năng widget, giao diện Siri được thiết kế lại, chế độ xem trong ảnh trên toàn hệ thống, tùy chọn đặt ứng dụng trình duyệt và email mặc định. Apple đã nâng cấp về các tính năng bảo mật, như cảnh báo mạng Wi-Fi không an toàn, ứng dụng truy cập vào dữ liệu định vị, microphone, cảnh báo ứng dụng đọc và ghi dữ liệu bộ nhớ tạm (clipboard)...
+Bảo Lâm tổng hợp
+Theo Bloomberg, Apple đang làm việc trên một loa thông minh HomePod với thiết kế nhỏ và giá bán phải chăng hơn. Thiết bị này có thể được sử dụng cho hệ sinh thái nhà thông minh, tương tự Google Home Mini.
+Trước đó, YouTuber Nikias Molina cũng tiết lộ thông tin về tính năng sẽ có mặt trên Apple Watch thế hệ 6, như theo dõi giấc ngủ, ứng dụng tập thể dục phiên bản mới, tính năng phát hiện các bất thường về tâm lý... Còn theo 9to5mac, sau khi phân tích mã nguồn iOS 14, trang này phát hiện đồng hồ có thể theo dõi nồng độ oxy trong máu.
+Sản phẩm khác
+iPad Air 4
+iPad Air hiện tại có giá khởi điểm 499 USD. Một số dự đoán cho rằng iPad Air 4 sẽ có mức tương tự.
+Apple thường phát hành iOS mới cho người dùng đại trà cùng iPhone mới vào tháng 9. Tuy nhiên, iPhone 12 có thể không xuất hiện, iOS 14 nhiều khả năng sẽ ra mắt trước cho người dùng.
+Apple Watch Series 6
+Trước đó, một số tin đồn cho biết iPad Air 4 sẽ được đại tu về thiết kế, gồm màn hình viền mỏng, các cạnh được làm vuông vắn như iPad Pro thay vì bo tròn như hiện nay. Về cấu hình, máy trang bị chip Apple A13X, bộ nhớ RAM 3 GB hoặc 4 GB, bộ nhớ từ 128 GB và chạy iPadOS.
+Theo thông tin từ sách hướng dẫn này, iPad Air 4 sẽ có màn hình viền mỏng hơn, phím Home không còn nằm ở mặt trước, cảm biến vân tay được tích hợp vào phím nguồn và nằm ở đỉnh máy. Bên cạnh đó, máy cũng có mặt của tính năng điều khiển bằng cử chỉ, mặt sau có kết nối Smart Connector giống iPad Pro.
+Theo Bloomberg, Apple có thể trình làng mẫu smartwatch giá phải chăng hơn so với Apple Watch Series 6 tại sự kiện này. Máy có thể bán ra với giá khởi điểm từ 199 USD.
+Apple Watch "giá rẻ"
+Trong khi đó, iPadOS sẽ có một số cập nhật riêng như cải thiện tính năng nhận dạng chữ viết tay, cũng như trình tìm kiếm được làm mới. Với sự xuất hiện của iPad Air mới, nhiều khả năng iPadOS cũng ra mắt tại sự kiện.
+Ốp lưng của iPad Air 4 đã bắt đầu được một số hãng sản xuất phụ kiện cho thiết bị Apple, như ZtotopCase hay TiMOVO đăng bán. Bên cạnh đó, hình ảnh về tài liệu hướng dẫn cho máy cũng đã được "chuyên gia tin đồn" DuanRui đăng trên Twitter.
+Nhiều dự đoán cho rằng Apple Watch Series 6 là thiết bị sẽ trình làng tại sự kiện ngày đêm nay của Apple. Mới đây, nhà phát triển Guilherme Rambo đã phát hiện mã nguồn trên trang sự kiện của Apple có cụm từ "Series 6" - số thứ tự các phiên bản smartwatch của Apple.
+Ngoài ra, Nikkei cho rằng Apple đã bắt đầu sản xuất Apple Tag và có thể ra mắt trong tháng 9. Đây là thiết bị có cơ chế hoạt động giống Tile, cho phép người sử dụng gắn lên những đồ dùng quan trọng như ví tiền, chìa khóa, hoặc thú cưng. Khi món đồ bị thất lạc, người dùng chỉ cần mở iPhone và tính năng Find My để tìm vị trí của Tag qua mạng Bluetooth giữa hệ thống các thiết bị Apple với nhau.
+Do là dòng giá rẻ, Apple sẽ không tích hợp tính năng đo điện tâm đồ (ECG), không có màn hình luôn sáng (Alway-on Display). Sản phẩm thiết kế tương tự Apple Watch Series 4, chip M9, có hai phiên bản kích thước màn hình là 40 và 44 mm. Mỗi cỡ được chia thành hai phiên bản chỉ có GPS và bản có thêm kết nối LTE.
+Ngoài ra, nguồn tin từ Apple Insider còn tiết lộ, Apple Watch Series 6 sẽ có kích thước 40 mm và 44 mm, tăng nhẹ so với kích thước 38 mm và 42 mm của Apple Watch Series 5. Smartwatch mới sẽ có chip xử lý mới mạnh hơn, thời lượng pin lâu hơn, hỗ trợ Wi-Fi 6 cùng khả năng chống nước tốt hơn.

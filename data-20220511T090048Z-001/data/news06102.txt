@@ -1,0 +1,10 @@
+Bài toán lớp 1 khiến phụ huynh 'xoắn não'
+Trong túi có 3 bi xanh và 1 bi đỏ, làm thế nào để bốc được 1 bi xanh hoặc đỏ mà không nhìn vào túi?
+>> Xem giải thích
+Đề toán như sau:
+b. 1 viên bi xanh?
+a. 1 viên bi đỏ?
+Trong túi vải có 3 viên bi xanh và 1 viên bi đỏ. Không nhìn vào túi, làm thế nào để bốc 1 lần mà lấy được.
+Bạn có giải được không?
+Mới đây, một người mẹ đã ngao ngán đăng bài vở của con mình kèm lời cảm thán: "Các mẹ có câu trả lời cho câu 4 này không, chứ mình chịu rồi. Cái này là kiến thức xác suất thống kê mà, đố học sinh lớp 1 nào giải được".
+Nancy (st)

@@ -1,0 +1,9 @@
+AI tạo hình ảnh từ văn bản
+AI2 có thể tạo ra những bức ảnh bằng văn bản mô tả, kết quả có phần hơi "đáng sợ" nhưng là bước tiến mới của Trí tuệ nhân tạo.
+Sau đó, các nhà nghiên cứu tiếp tục dùng mô tả của mình để yêu cầu AI tạo thành một bức ảnh. Gần như không có bức ảnh nào được hoàn thiện, nhưng kết quả cũng rất ấn tượng. Với một số từ khóa, như "nhiếp ảnh gia", "studio chụp ảnh" hay "máy ảnh", AI này không đưa ra được một sản phẩm nào có thể "chấp nhận được".
+Xa hơn nữa, hướng đi này có thể mở ra tiềm năng năng nhận dạng hình ảnh tốt hơn hoặc đưa ra những mô tả trực quan. Nói cách khác, khi máy móc càng hiểu con người, con người càng đưa ra những mô tả chính xác, hình ảnh nhận về càng chân thực. Cộng với khả năng tự học để hoàn thiện, tiềm năng của AI là rất lớn khi được sử dụng trong ngành điện ảnh, hội hoạ.
+Khương Nha (theo PetaPixel)
+Theo MIT Technology Review, đây là lĩnh vực nghiên cứu hấp dẫn và cho thấy tiềm năng của các thuật toán thị giác máy tính trong tương lai. Ngay cả những đứa trẻ cũng có thể dễ dàng mô tả một bức ảnh thành văn bản. Nhưng làm điều ngược lại thì không phải vấn đề đơn giản.
+Các nhà nghiên cứu của viện Allen đã tạo ra một mô hình chú thích ảnh tên Lxmert. Sau đó họ bắt đầu nâng cấp mô hình này lên thành X-Lxmert. Mặc dù AI mô tả không chính xác và "mạch lạc" những gì thể hiện trên tấm ảnh, nội dung ảnh không hoàn "vô nghĩa".
+Mặc dù những bức ảnh này chưa hoàn thiện, AI2 đã có một bước tiến đáng kinh ngạc trong lĩnh vực Trí tuệ nhân tạo. Thuật toán cho thấy trong tương lai, những khoảng trống mà ngành công nghiệp AI để lại sẽ được "lấp đầy".
+Các nhà nghiên cứu tại Viện Trí tuệ nhân tạo Allen của Mỹ tạo ra AI mới dựa trên mô hình thị giác máy tính với nhiệm vụ chú thích những gì nó "nhìn thấy" trong ảnh nhưng đảo ngược thuật toán thành: Tạo ra ảnh từ mô tả.

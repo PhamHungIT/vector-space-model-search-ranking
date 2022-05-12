@@ -1,0 +1,11 @@
+AI phát hiện người cô đơn qua giọng nói
+AI phân tích ngôn ngữ để đo chỉ số cô đơn với độ chính xác đến 94%, bằng cách phân tích từ và khoảng trống im lặng trong cuộc trò chuyện.
+Khương Nha (theo Daily Mail)
+Điều thú vị là AI không chỉ đánh giá dựa trên các từ khoá có trong từ điển để phản ánh sự sợ hãi, nỗi buồn, mà còn tra ngược lại ý nghĩa của các từ được sử dụng trong suốt buổi phỏng vấn để đo lường chính xác nhất.
+Nghiên cứu cũng chỉ ra rằng có sự khác biệt giữa nam và nữ. Phụ nữ có nguy cơ cô đơn nhiều hơn nam giới.
+Nhóm nghiên cứu của đại học California, San Diego vẫn tiếp tục khám phá tiềm năng của mô hình phân tích ngôn ngữ tự nhiên. "Dữ liệu ngôn ngữ có thể kết hợp với các đo lường khác về nhận thức, vận động, giấc ngủ, hoạt động thể chất và sức khoẻ tinh thần để nâng cao hiểu biết của chúng tôi về quá trình não hóa. Việc này sẽ giúp chăm sóc cộng đồng tốt hơn về cả thể chất lẫn tinh thần", đại diện nhóm nghiên cứu khẳng định.
+Nghiên cứu cũng cho thấy độ chính xác của AI so với các thông tin do chính người được phỏng vấn cung cấp. Một trong những chi tiết thú vị của nghiên cứu là không phải lúc nào người ta cũng nói đúng về sự cô đơn của mình cho tư vấn viên hoặc bác sĩ. Nhưng bằng cách phân tích nhiều đoạn hội thoại, AI có thể chẩn đoán chính xác độ cô đơn của mỗi người.
+80 người cao tuổi trong dự án nghiên cứu của đại học California, San Diego, Mỹ được phỏng vấn và ghi âm. Sau đó các nhà nghiên cứu sử dụng các công cụ xử lý ngôn ngữ tự nhiên bao gồm phần mềm Hiểu Ngôn ngữ Tự nhiên IBM Watson (WNLU) để định lượng và đánh giá cảm xúc.
+Phân tích chỉ ra rằng những kiểu cảm xúc tương tự cũng được thể hiện khác nhau, vì vậy máy học cần được nâng cấp để chuẩn hóa dữ liệu. So với các buổi phỏng vấn sâu và đánh giá định lượng thông thường, AI có thể dự đoán sự cô đơn với độ chính xác 94%.
+Ellen Lee, trưởng dự án nghiên cứu cho biết: "AI đánh giá các triệu chứng cô đơn ở người cao tuổi gần như chính xác. Kết quả tương ứng các bản tự thuật về sự cô đơn và bảng câu hỏi do chính họ thực hiện".
+Valsha Badar, thành viên trong nhóm nghiên cứu giải thích: "Phần mềm WNLU được dùng để trích xuất siêu dữ liệu từ các từ khóa, danh mục, cảm xúc và ngữ pháp". Các mô hình ngôn ngữ tự nhiên và học máy cho phép nhóm nghiên cứu kiểm tra kết quả từ nhiều người để khám phá ra cách dùng ngôn ngữ trong việc thể hiện cảm giác cô đơn.

@@ -1,0 +1,9 @@
+Instagram bị người dùng iPhone kiện
+Mỹ- Instagram bị cáo buộc tự kích hoạt camera trên iPhone và theo dõi người dùng khi chưa được đồng ý.
+Khi đó, phát ngôn viên của Instagram cho biết, ứng dụng của hãng không tự ý truy cập vào camera của người dùng, nhưng chế độ Create Mode truy cập vào hình ảnh chụp bởi camera khiến hệ thống nhầm tưởng camera đang được sử dụng ở chế độ nền. Mạng xã hội hình ảnh lớn nhất thế giới nói đây đơn giản chỉ là lỗi phần mềm, đồng thời khắc phục sau đó.
+Hồi tháng 7, nhiều người chia sẻ trên Twitter rằng, sau khi nâng cấp lên hệ điều hành iOS 14 beta, họ thấy hệ thống thông báo Instagram đang mở camera dù phần mềm đang tắt.
+Theo Bloomberg, đơn kiện tập thể nhằm vào Facebook và Instagram đã được đệ lên tòa án San Francisco (Mỹ) cuối tuần trước. Brittany Conditi, đại diện nhóm khởi kiện, cho biết ứng dụng này đã truy cập vào camera trên smartphone của họ ngay cả khi ứng dụng đang tắt. Theo người này, việc này không phải là lỗi mà được thực hiện có chủ đích.
+Ngoài ra, nhóm cũng nhấn mạnh việc vi phạm trái phép của Facebook được thực hiện trong thời gian dài và âm thầm. Mọi thứ chỉ được công khai sau khi Apple ra iOS 14, trong đó, hệ điều hành có tính năng phát hiện ứng dụng nào đang sử dụng camera.
+Bảo Lâm (theo Phonearena)
+Đại diện Facebook chưa bình luận gì về cáo buộc trên.
+Theo đơn kiện, nhóm người dùng cho rằng Facebook đã sử dụng Instagram để thu thập hình ảnh trái phép qua camera nhằm phục vụ mục đích quảng cáo. Những hành động này xâm phạm quyền riêng tư của người dùng, nhưng mang lại hàng tỷ USD doanh thu cho Facebook.

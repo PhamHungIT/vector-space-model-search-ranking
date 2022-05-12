@@ -1,0 +1,10 @@
+Safari 14 chặn 90 trình theo dõi người dùng trong 5 phút
+Trình duyệt Safari 14 của Apple đã bổ sung tính năng cho phép chặn các website bên thứ ba lấy dữ liệu người dùng qua cookie.
+Koetsier nhận thấy 70% website ông truy cập đều chứa các trình theo dõi và thu thập cookie, nhiều nhất là các dịch vụ của Google như Google Analytics, Doubleclick, Google Tag Services, Google Ad Services... tiếp đó là trình theo dõi của các công ty phân tích, như comScore, mạng xã hội Facebook, hay các mạng quảng cáo và nhà cung cấp công nghệ quảng cáo như Criteo, The Rubicon Project và Pubmatic.
+Tuy nhiên, cookie cũng được các bên thứ ba sử dụng để theo dõi hành vi người dùng, từ đó biết được tần suất truy cập, thời gian truy cập, cũng như các thói quen khác để có thể tối ưu hóa website hoặc dịch vụ của mình. Bên cạnh đó, nó cũng trở thành công cụ cho các nhà quảng cáo trên Internet. Do lưu trữ các thông tin "nhạy cảm" nên cookie còn là mục tiêu của các hacker.
+Website tích hợp nhiều trình thu thập cookie nhất là Zdnet, MSM.com và Forbes... Các mạng xã hội như Twitter chỉ có hai trình, hay Facebook có ba trình thu thập cookie.
+Bảo Lâm (theo Forbes)
+Forbes đã thử nghiệm tính năng mới trên trình duyệt và đánh giá nó hoạt động khá hiệu quả. Phóng viên John Koetsier của tạp chí này lần lượt truy cập Forbes, Fox News, The Verge, kiểm tra Twitter, vào Slashdot, xem tin tức trên Zdnet và cuối cùng là truy cập một bức ảnh trên Unsplash. Quá trình thực hiện khoảng 5 phút.
+Trên Safari 14, Apple sẽ cung cung cấp tùy chọn cho phép người dùng biết được mình đang bị ai thu thập thông tin cookie, bằng cách nhấp vào chiếc khiên nửa xanh lá ở góc trái thanh địa chỉ.
+Cookie là các tệp được website tạo ra khi người dùng truy cập, bên trong lưu trữ các thông tin cá nhân giúp truy cập website nhanh hơn, tiện lợi hơn và không mất quá nhiều thời gian đăng nhập lại nhiều lần.
+Apple vừa ra mắt trình duyệt Safari 14 với nhiều cải tiến về quyền riêng tư, trong đó mặc định trình Chặn theo dõi thông minh (Intelligent Tracking Prevention). Đây là tính năng ra mắt cách đây ba năm, cho phép phát hiện và chặn bên thứ ba thu thập cookie.

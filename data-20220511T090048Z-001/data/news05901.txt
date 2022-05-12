@@ -1,0 +1,20 @@
+Tài khoản 'bốc hơi' 406 triệu đồng - những nghi vấn
+Tại sao kẻ gian có thể dễ dàng lấy được mã OTP tận 4 lần chỉ trong 7 phút để chuyển 406 triệu?
+Lẽ nào có cách lấy sim của chủ tài khoản? Chuyển hướng tin nhắn ( tôi chỉ nghe nói chuyển hướng cuộc gọi chứ chưa biết chuyển hướng tin nhắn có hay không)? Hoặc chủ tài khoản bị ai mượn điện thoại?
+Hữu Nghị tổng hợp
+1. Nếu ngân hàng xác nhận nhắn tin OTP vào điện thoại của khách thì tại sao kẻ gian cũng nhận được tin nhắn này? Tổng cộng bốn tin nhắn OTP (một đăng nhập, một kích hoạt Smart OTP, hai giao dịch), nếu kẻ gian có tài đoán số như PIN thì cũng khó trúng cả bốn được. Nếu thủ phạm có hack được điện thoại của nạn nhân thì cũng chỉ lấy được nội dung chứ khó mà xóa được các tin nhắn này.
+Cho nên tất cả tin nhắn đều vào thiết bị mới này, sau đó gắn vào lại thiết bị cũ thì sẽ không thấy những tin nhắn này. Còn về mật khẩu ứng dụng của ngân hàng, có thể khổ chủ lưu vào đâu đó (sổ tay, mẫu giấy nhét vào ví...) mà kẻ gian đã theo dõi và lấy được thông tin.
+Tuấn Anh
+2. Thời điểm bị trộm tiền và thời điểm nạn nhân đi ra ngân hàng là cùng một ngày, trong một thời gian ngắn. Thủ phạm biết canh giờ hay ngẫu nhiên? Ngoài ra thì thủ phạm đã rút thì rút hết tiền chứ chừa 5 triệu đồng lại để làm gì? Kẻ trộm có tâm chăng?
+Cuong Hoang
+Trong khi đó, một số độc giả cho rằng điện thoại đã bị nhiễm mã độc và phần mềm gián điệp:
+Vì không nhận được tin nhắn thông báo mã xác thực, biến động số dư qua điện thoại nên ông không phát hiện cho đến khi ra ngân hàng giao dịch vào chiều cùng ngày.
+Bây giờ nhiều ứng dụng đọc được nội dung tin nhắn trên điện thoại. Người dùng đa số không hiểu biết về an toàn thông tin nên cứ ứng dụng nào hỏi cho phép truy cập tin nhắn điện thoại không là cứ chọn đồng ý bừa. Đây là lý do các ứng dụng ăn cắp thông tin lấy được mã OTP. Nên an toàn hơn vẫn là sử dụng sim nhận mã OTP trên điện thoại đen trắng (không phải là smartphone).
+Độc giả daole77 nêu giả thuyết: Có thể hiểu theo cách này thì đơn giản, giao dịch xảy ra vào buổi trưa, thì có thể là người thân, bạn bè, đồng nghiệp lợi dụng lúc khổ chủ đang nghỉ trưa thì lấy sim điện thoại gắn qua thiết bị khác.
+Nhiều độc giả quan tâm tình huống này. Độc giả Ngọc Phương Hùng Phạm nêu có hai điểm nghi vấn:
+Vấn đề là sao có thể lấy mã OTP 4 lần? Lần đầu để kích hoạt ứng dụng trên thiết bị mới, lần hai kích chuyển tiền bằng Smart OPT trên thiết bị và thêm hai lần giao dịch thành công qua OTP mới thực được giao dịch bằng SmartOTP.
+Theo tôi nghĩ điện thoại khổ chủ đã bị cài một phần mềm có tính năng ẩn tin nhắn trên giao diện và đọc nội dung tin nhắn. Khi mã OTP đến thì ẩn đi tin nhắn và đọc nội dung tin nhắn chuyển đến hacker là xong. Nên tốt nhất khi đăng ký một điện thoại mới thì phải có xác nhận của điện thoại cũ, nếu không có thì phải ra ngân hàng đăng ký là an toàn nhất.
+>> Bài viết không nhất thiết trùng với quan điểm VnExpress.net. Gửi bài tại đây.
+Một người dân ở quận Thủ Đức (TP HCM) cho biết tài khoản tại Ngân hàng Ngoại thương Việt Nam (Vietcombank) bị kích hoạt ứng dụng VCB Digibank trên thiết bị khác và chuyển 406 triệu cho người thụ hưởng tại MSB, SEABank trong 7 phút.
+Độc giả nakhuong06 Khuong cũng đặt vấn đề tại sao kẻ gian có thể lấy được mã OTP bốn lần thành công:
+Có hai điểm nghi vấn:

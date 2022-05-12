@@ -1,0 +1,15 @@
+Oracle 'thắng lớn' trong thương vụ TikTok
+Oracle nắm giữ 12,5% cổ phần TikTok Global, nhưng quan trọng hơn, họ sẽ là nhà cung cấp dịch vụ điện toán đám mây cho ứng dụng video này.
+Theo Scott Galloway, Giáo sư tại Đại học New York, không nhiều nhà lãnh đạo trong số các công ty Fortune 1000 ủng hộ Trump và Tổng thống Mỹ đã "trao hợp đồng đám mây và cơ hội đầu tư cho một công ty mà CEO của nó công khai ủng hộ ông".
+TikTok là khách hàng lớn trong mảng điện toán đám mây bởi ứng dụng video ngắn phụ thuộc vào công nghệ này để vận hành, lưu trữ dữ liệu. Tính đến tháng 7, số người hoạt động hàng tháng trên TikTok đạt gần 700 triệu, trong khi số lượt tải ứng dụng vượt 2 tỷ trên toàn thế giới. Riêng tại Mỹ, TikTok đạt hơn 100 triệu tính đến đầu tháng 8.
+Tuy nhiên, dù là hãng phần mềm lớn thứ hai sau Microsoft, Oracle vẫn không nằm trong danh sách 5 nhà cung cấp cơ sở hạ tầng đám mây lớn nhất thế giới xét về doanh thu, theo thống kê của Gartner. Đứng đầu hiện là Amazon, trong khi ngôi vị á quân thuộc về Microsoft.
+"Với Larry Ellison và Oracle, thương vụ là một chiến thắng chiến lược trên thị trường đám mây", Dan Ives, nhà phân tích tại Wedbush Securities, nói. "Hợp tác công nghệ với TikTok giống như một liều thuốc bổ mang tính biểu tượng".
+Oracle đang chật vật ghi dấu ấn trên thị trường đám mây. Từ năm 2016, hãng đã quyết tâm đầu tư vào lĩnh vực này khi chi 9,3 tỷ USD mua lại công ty điện toán đám mây NetSuite. Đến 2018, họ lại thâu tóm nền tảng đám mây DataScience.
+Giới phân tích nhận định, thương vụ này được coi là thành công lớn với Oracle.
+Ngày 19/9, Tổng thống Mỹ Donald Trump đồng ý cho hãng công nghệ Oracle và chuỗi bán lẻ Walmart mua lại và quản lý hoạt động của TikTok tại Mỹ. Hai bên thành lập công ty mới mang tên TikTok Global. Trong đó, Oracle phụ trách cung cấp dịch vụ đám mây cho TikTok cùng 12,5% cổ phần. Walmart sẽ mua 7,5% cổ phần và CEO Doug McMillon là một trong năm thành viên hội đồng quản trị của công ty mới.
+Giới phân tích đánh giá, dựa vào mối quan hệ thân thiết với chính quyền Trump, Chủ tịch Oracle Larry Ellison mới có được thỏa thuận mua bán với ứng dụng này.
+Trump cũng từng vài lần bày tỏ sự ngưỡng mộ của ông với Ellison, coi ông là "một người khác thường" và "xuất sắc".
+Châu An (theo Bloomberg)
+Ngược lại, việc bị gạt khỏi cuộc đua là thất bại với Microsoft, bởi hãng phần mềm lớn nhất thế giới cũng muốn bắt tay với TikTok nhằm thu hẹp khoảng cách với đối thủ số một về cloud là Amazon.
+Hồi tháng 2, tỷ phú Ellison để Trump sử dụng một trong những khu bất động sản của ông ở California để tổ chức sự kiện gây quỹ cho chiến dịch tái tranh cử Tổng thống Mỹ. CEO Oracle Safra Catz cũng từng tham gia đội ngũ vận động tranh cử của Trump năm 2016.
+"Việc mua TikTok có thể đẩy mạnh hoạt động kinh doanh đám mây của Oracle, tăng mức sử dụng lên 10%", Holger Mueller, nhà phân tích tại Constellation Research, nhận định.

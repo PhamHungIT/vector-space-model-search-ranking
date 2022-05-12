@@ -1,0 +1,11 @@
+Apple Watch khiến người dùng đi bệnh viện nhầm
+Tính năng đo nhịp tim của Apple Watch được đánh giá là hoạt động chưa thực sự chính xác, dẫn đến nhiều người phải đi khám sức khỏe không cần thiết.
+Có 41 người đến bệnh viện sau khi được đồng hồ cảnh báo các triệu chứng, bao gồm choáng váng hoặc đau ngực. Tuy nhiên, chỉ có 30 người được bác sĩ chẩn đoán mắc bệnh tim. Nghiên cứu kết luận, hầu hết kết quả cảm biến theo dõi nhịp tim của Apple Watch cảnh báo đều là "giả".
+Bảo Lâm (theo The Verge)
+Wyatt cho rằng những sản phẩm này có thể "làm mờ ranh giới giữa các thiết bị y tế được nghiên cứu nghiêm ngặt và các công cụ chăm sóc sức khỏe".
+Không chỉ Apple, hầu hết các hãng smartwatch hiện nay đều có tính năng đo nhịp tim, cũng như đo nồng độ ô xy trong máu, đo điện tâm đồ... Phó giáo sư Heather Heaton, một thành viên trong nhóm nghiên cứu, cho rằng các thiết bị như Apple Watch chỉ nên đóng vai trò theo dõi, chưa thể làm nhiệm vụ chẩn đoán bệnh.
+"Với hàng triệu người sử dụng, khả năng cao sẽ có hàng nghìn người phải đến bệnh viện sau những cảnh báo giả từ các thiết bị theo dõi sức khỏe", Heaton nói. "Điều này gây tốn kém cho bệnh nhân và hệ thống y tế, cũng như làm mất thời gian của bác sĩ và người bệnh một cách không cần thiết".
+"Dù bệnh nhân hoàn toàn khỏe mạnh, những cảnh báo giả có thể khiến họ căng thẳng, lo lắng, thậm chí sinh bệnh", Wyatt nói. "Thật khó để ai đó bỏ qua cảnh báo rằng, họ đang gặp vấn đề nghiêm trọng về sức khỏe".
+Theo nghiên cứu của Đại học Y Mayo Clinic (Mỹ), khoảng 10% người dùng Apple Watch bị chẩn đoán mắc bệnh tim sau khi nhận kết quả đo nhịp tim bất thường từ đồng hồ này.
+Nhóm nghiên cứu do Kirk Wyatt, Phó giáo sư chuyên ngành nhi khoa, dẫn đầu, đã "quét" hồ sơ của bệnh nhân sử dụng Apple Watch để chẩn đoán sức khỏe tại các văn phòng của Mayo Clinic ở bang Arizona, Florida, Wisconsin và Iowa từ tháng 12/2018 đến tháng 4/2019. Đây là khoảng thời gian Apple giới thiệu tính năng phát hiện nhịp tim bất thường trên smartwatch của mình.
+Trong quá khứ, Apple Watch từng nhiều lần cứu sống con người. Smartwatch này phát hiện chủ nhân bị ngã và gửi thông báo đến người thân, đơn vị cứu hộ để cấp cứu kịp thời. Đồng hồ cũng cứu bé 13 tuổi vì nhịp tim bất thường, hỗ trợ một số người cao tuổi, một bé gái bị bệnh thận phát hiện ra bất thường trong nhịp tim.

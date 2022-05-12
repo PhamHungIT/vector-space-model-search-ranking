@@ -1,0 +1,12 @@
+Đáp án bài toán 'cầu kính 7 ô vuông'
+Thầy Trần Phương đưa ra lời giải cho bài toán trong đề thi chọn đội tuyển Junior Việt nam (12-13 tuổi) tham dự kỳ thi Toán học trẻ quốc tế năm 2013.
+Hình dưới đây biểu diễn một cái hồ hình chữ nhật kích thước 26 m x 17 m. Bên trong hồ là hệ thống cầu kính gồm 7 hình vuông giống nhau với 4 điểm chạm nằm trên 4 cạnh hình chữ nhật. Hãy tính diện tích và chu vi của hệ thống cầu kính.
+Suy ra 3(2a + 5b) – 2(3a + 2b) = 3×26 – 2×17, từ đó ta có 11b = 44. Vậy b = 4.
+Đề bài:
+Từ đó a= 3, kết hợp với định lý Pitago c2=a2+ b2=25 suy ra c =5.
+Trong tam giác vuông, gọi độ dài hai cạnh góc vuông là a, b, cạnh huyền là c. Khi đó chiều dài và chiều rộng hồ nước là 2a + 5b= 26 và 3a + 2b= 17.
+Dễ thấy 10 tam giác vuông dựng trong hệ thống cầu kính bằng nhau.
+Trong hệ thống cầu kính, dựng 10 tam giác vuông liên tiếp có cạnh huyền là cạnh của một ô vuông, các cạnh góc vuông song song với các cạnh hồ nước như hình vẽ.
+Đáp án:
+Trần Phương
+Vậy chu vi cầu kính là 80 m và diện tích cầu kính là 175 m².

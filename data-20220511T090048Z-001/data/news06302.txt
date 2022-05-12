@@ -1,0 +1,4 @@
+Di chuyển một que diêm để '6 + 4 = 4' thành đúng
+Bạn mất bao lâu để tìm ra đáp án đúng và có mấy cách di chuyển que diêm đáp ứng yêu cầu của đề bài?
+>> Xem đáp án
+Nancy (st)

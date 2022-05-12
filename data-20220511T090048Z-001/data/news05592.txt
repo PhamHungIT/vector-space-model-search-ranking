@@ -1,0 +1,2 @@
+Mẹo tùy biến giao diện đẹp trên iOS 14
+iOS 14 cho phép thêm widget và tùy biến ứng dụng trên màn hình chính, gom ứng dụng ít sử dụng với App Library.

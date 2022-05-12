@@ -1,0 +1,9 @@
+Loạt dịch vụ Google gặp sự cố
+Gmail, Drive, YouTube và nhiều dịch vụ Google khác không thể truy cập sáng nay (25/9).
+Tại Việt Nam, nhiều người cũng không thể truy cập dịch vụ Google vào sáng 25/9. Thanh Hằng, nhân viên văn phòng đang làm việc tại Cầu Giấy (Hà Nội) cho biết, dịch vụ Google Drive báo lỗi 502 khi cô truy cập vào lúc 8h sáng nay. Việc truy cập các dịch vụ Google khác cũng chập chờn, sau khoảng 1 tiếng mới ổn định trở lại.
+Ngày 20/8, loạt dịch vụ của Google cũng đã gặp sự cố trên toàn cầu và mất khoảng 4 tiếng mới khắc phục xong.
+Ngoài Drive, Gmail, hàng loạt dịch vụ khác như Hangout, YouTube, CH Play cũng ghi nhận gặp sự cố. Hiện tượng này xảy ra ở nhiều khu vực trên thế giới, đặc biệt tại Mỹ, Nhật Bản, Malaysia, Indonesia.
+Trên Twitter, hashtag #GoogleDown thành một trong những từ khóa được nhiều người nhắc đến nhất sáng nay.
+Công cụ chuyên theo dõi tình trạng các dịch vụ trực tuyến, Downdetector, ghi nhận lượng thông báo lỗi tăng vọt vào 8h sáng nay (giờ Hà Nội). Thông thường lượng báo lỗi với các dịch vụ Google khoảng 20 - 30 lần mỗi thời điểm, nhưng vừa xong đã tăng lên hơn 30 nghìn. Hồi tháng 8, Gmail và Drive cũng từng gặp sự cố toàn cầu, nhưng số lượt báo lỗi cũng dừng ở mức dưới 2 nghìn.
+Lưu Quý
+Google hiện chưa đưa ra thông báo về tình trạng này.

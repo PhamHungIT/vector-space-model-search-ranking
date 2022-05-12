@@ -1,0 +1,8 @@
+Chó robot làm công việc nguy hiểm thay con người
+Pháp- Mẫu chó robot Scar với camera tích hợp và khả năng di chuyển trên địa hình phức tạp có thể hoạt động trong môi trường rủi ro cao.
+Scar sẽ sớm thực hiện nhiệm vụ đầu tiên. Nhóm kỹ sư ở Mines đang bàn bạc với Andra (Cơ quan Quản lý Chất thải phóng xạ Quốc gia) về việc sử dụng Scar trong dự án liên quan tới đào hầm. Nếu nhiệm vụ đầu tiên của Scar thành công, kết quả sẽ mở đường cho nhiều tổ chức và công ty khác sử dụng chó robot.
+"Andra không cho phép người điều khiển đứng ở sau đầu máy đào hầm trong những đường hầm lớn mà họ đang xây dựng. Đó là lý do tại sao con chó này sẽ thay thế người điều khiển để di chuyển qua đó", David Lecomte, sinh viên kỹ thuật ở trường, giải thích.
+Từ khi Scar chuyển tới ngôi trường, các kỹ sư đã điều chỉnh nhiều đặc điểm để nó có tất cả công cụ cần thiết nhằm tìm đường trên địa hình hiểm trở và báo cáo lại những phát hiện. Scar có 5 camera tích hợp để quan sát môi trường, đo đạc, lập bản đồ, đánh giá xung quanh.
+"Chúng tôi đang làm việc với các tổ chức công cộng và tư nhân để phát triển ứng dụng cho mẫu robot này, nhờ đó nó có thể hoạt động độc lập trong môi trường phức tạp và thay thế con người", Rousseau cho biết.
+An Khang (Theo CGTN)
+Scar là chó robot 4 chân có thể cung cấp đột phá kỹ thuật khi khám phá những môi trường quá nguy hiểm đối với con người. Mines Nancy, một trong những trường kỹ thuật hàng đầu ở Pháp, mua lại con robot từ một công ty ở Boston, Mỹ. François Rousseau, tổng giám đốc của Mines Nancy, cho rằng Scar có thể giữ vai trò quan trọng giúp bảo vệ con người trong các dự án xây dựng.

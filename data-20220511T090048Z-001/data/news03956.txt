@@ -1,0 +1,9 @@
+Thể dục trí não với năm câu đố
+Tìm mật mã khóa dựa vào vài gợi ý, tìm quy luật điền số hay chỉ ra số khác biệt là thử thách giúp bạn rèn luyện trí não.
+Câu 5: Tìm quy luật để điền số thích hợp vào vị trí dấu hỏi chấm.
+Câu 4: Tìm số khác với các số còn lại (không tính khác biệt chẵn, lẻ).
+Câu 1: Tìm mật mã để mở khóa dựa vào các gợi ý đã cho.
+Câu 3: Cho 9 số là 1, 4, 7, 2, 5, 8, 3, 6, 9. Hãy điền các số vào 9 ô dưới đây (mỗi số một lần) sao cho tạo thành ba số có ba chữ số và tổng của chúng bằng 999.
+Câu 2: Thêm cặp dấu ngoặc đơn để được phép tính đúng.
+>>Đáp án
+Theo Power of Enjoyment

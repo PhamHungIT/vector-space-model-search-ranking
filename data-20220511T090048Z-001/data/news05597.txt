@@ -1,0 +1,11 @@
+Hệ điều hành VOS của Vinsmart đạt chuẩn FIDO2
+Hệ điều hành trên điện thoại Vsmart hỗ trợ xác thực mạnh không cần mật khẩu, đạt chứng chỉ FIDO2 do FIDO Alliance cấp, hôm 2/10.
+Tính năng trên giúp tiết kiệm 50 USD cho người dùng thay vì mua khóa FIDO2 gắn ngoài hỗ trợ vân tay.
+Công nghệ FIDO2 được Diễn đàn Kinh tế thế giới nhận định là công nghệ đột phá trong việc đảm bảo chuyển đổi số an toàn. Xác thực không mật khẩu đang là xu hướng toàn cầu với độ an toàn cao, loại trừ khả năng giả mạo hoặc tấn công chiếm tài khoản bằng mã độc.
+Khởi đầu từ dòng sản phẩm Vsmart Aris Series, FIDO2 sẽ được hãng điện thoại này cung cấp miễn phí cho hơn 1 triệu người dùng. Đây là hệ điều hành Android tuỳ biến duy nhất đạt được chứng nhận này, ứng dụng công nghệ xác thực người dùng an toàn nhất hiện nay. VOS sẽ có thêm tính năng FIDO 2 cho các dịch vụ ngoài Google.
+Tuấn Vũ
+Trước VinCSS, VinSmart cũng hợp tác với Viện Nghiên cứu Trí tuệ nhân tạo VinAI Research, thuộc Vingroup phát triển công nghệ nhiếp ảnh AI Vcam Kristal, tích hợp trên điện thoại Vsmart Aris Pro với camera ẩn dưới màn hình.
+Liên minh Xác thực trực tuyến FIDO Alliance vừa cấp chứng nhận FIDO2 cho hệ điều hành VOS của điện thoại Vsmart. Đây là thành quả của hợp tác nghiên cứu và phát triển giữa VinSmart và VinCSS, thuộc tập đoàn Vingroup.
+Công ty THHH Dịch vụ An ninh mạng VinCSS đã đạt 2 chứng chỉ FIDO2 cho sản phẩm khóa xác thực và máy chủ xác thực mạnh. Việc tiếp tục đạt chứng nhận bảo mật thứ ba trong vòng 9 tháng thể hiện nỗ lực đột phá, làm chủ và tự tin tham gia sâu vào các lĩnh vực công nghệ nền tảng hiện đại nhất của thế giới của Vingroup.
+Đại diện hãng cho biết, Vsmart sẽ có lộ trình cập nhật tính năng trên cho các dòng sản phẩm tiếp theo. Trước mắt, Aris và Aris Pro sẽ là hai sản phẩm được ứng dụng FIDO2.
+Với VOS có FIDO2, người dùng điện thoại có thể sử dụng cảm biến vân tay để kích hoạt khoá xác thực mạnh bên trong hệ điều hành. Khi đó, ứng dụng VinCSS FIDO2 trên Play Store cho phép sử dụng điện thoại Vsmart như một khoá xác thực mạnh gắn ngoài (USB) cho máy tính chạy hệ điều hành Windows, macOs, Linux. Từ đó, việc đăng nhập sẽ không cần mật khẩu để vào các dịch vụ của Google, Microsoft, Facebook, Ebay, Dropbox, Salesforce và nhiều dịch vụ khác hỗ trợ chuẩn FIDO2.

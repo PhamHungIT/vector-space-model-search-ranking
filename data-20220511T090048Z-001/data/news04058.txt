@@ -1,0 +1,3 @@
+Sinh viên Đại học FPT sáng tạo ví điện tử
+Sinh viên Đại học FPT thực hiện đồ án tốt nghiệp về hệ thống ví điện tử nội bộ giúp người dùng thanh toán hóa đơn không cần tiền mặt.
+"Chúng tôi sáng tạo ý tưởng này dành cho Đại học FPT theo những định hướng chuyển đổi số. Trong tương lai, chúng tôi mong muốn tiếp tục nghiên cứu và triển khai để sản phẩm được sử dụng rộng rãi trong khuôn viên của Tổ chức Giáo dục FPT – FPT Education, cũng như nhiều trường Đại học, hệ thống giáo dục khác", đại diện nhóm sinh viên sáng tạo sản phẩm chia sẻ.

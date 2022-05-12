@@ -1,0 +1,3 @@
+Vẽ khối rubik như thật
+Đầu tiên, bạn sử dụng bút chì phác họa khối rubik với ba mặt đỏ, trắng và xanh lá, sau đó đánh bóng để biến hình vẽ sinh động.
+Theo Marcello Barenghi

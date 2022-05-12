@@ -1,0 +1,27 @@
+Công nghệ phẫu thuật của tương lai
+Các robot phẫu thuật hoàn toàn tự động là mục tiêu cuối cùng của các nhà khoa học, trong phòng mổ sẽ chỉ có robot trực tiếp thao tác trên bệnh nhân. 
+Tương lai, các bác sĩ có thể lựa chọn cấu hình ánh sáng phù hợp với từng loại thủ thuật. Hơn thế, các bóng đèn cũng có chế độ chiếu tia UV để khừ trùng phòng mổ trong đêm.
+Trợ giúp từ xa
+Một hướng đi khác là phân tích gene nhanh dựa trên cơ sở dữ liệu có sẵn từ các bệnh nhân trên toàn thế giới. Mẫu máu lấy từ người bệnh sẽ được đem so sánh về di truyền với cơ sở dữ liệu được tổng hợp, nhằm tính toán nguy cơ phản ứng với thuốc điều trị hoặc thuốc gây mê.
+Tuy nhiên vấn đề về đường truyền cũng như pháp lý có thể ngăn những tiến bộ này được ứng dụng rộng rãi. Ngoài ra những lo ngại về an ninh mạng và tính an toàn của những robot được điều khiển từ xa cũng là vấn đề đáng quan tâm.
+In 3D
+Các robot phẫu thuật hoàn toàn tự động là mục tiêu cuối cùng của các nhà khoa học. Tuy nhiên, họ còn cách vạch đích nhiều năm nữa.
+Công nghệ chiếu sáng tân tiến
+Biostasis (Công nghệ trì hoãn sinh học) được ứng dụng để giảm tốc độ tự phân hủy của tế bào. Các nhà nghiên cứu của Cơ quan Nghiên cứu cao cấp thuộc Bộ Quốc Phòng Mỹ (gọi tắt là DARPA) đang thử nghiệm công nghệ này vào việc đóng băng chuyển hóa. Ví dụ trong trường hợp một bệnh nhân bị mất chi do tai nạn, các chuyên gia y tế có thể tiêm một loại hóa chất vào phần cơ thể đó để lưu trữ nó mà không cần cung cấp dinh dưỡng. Điều này cho phép các bác sĩ phẫu thuật tái ghép mô, da hoặc xương sau vài tiếng hoặc vài ngày, thay vì tính bằng giây, phút, giờ như hiện tại.
+Robot khử trùng siêu tốc
+Dữ liệu lớn
+Công nghệ in 3D giúp các bác sĩ ở bệnh viện Cleveland xây dựng mô hình phình mạch máu não trước khi thực hiện phẫu thuật. Điều này giúp họ dễ dàng hình dung cấu trúc ba chiều của cơ quan đó. Mẫu in 3D cũng được sử dụng để trình bày cho bệnh nhân hiểu những gì sẽ diễn ra trong ca mổ. Tương lai, các bác sĩ hy vọng công nghệ in 3D có thể mô phỏng tổn thương, quá trình chảy máu hoặc nuôi cấy tế bào như một cơ quan bình thường.
+Bảo quản chi và mô sống
+Trí tuệ nhân tạo (AI)
+Robot phẫu thuật
+Hiện tại, các chuyên gia mong muốn tạo ra robot có khả năng thực hiện các tác vụ trong phòng mổ tự động mà không cần sự giám sát của con người. Dự án phối hợp của Đại học quốc gia Singapore và tập đoàn Intel tạo ra "da nhân tạo", giúp robot có thể cảm nhận bằng việc chạm và phân biệt giữa mô khoẻ mạnh và khối u, tự đưa ra quyết định về đường cắt. Các dự án khác tạo ra robot tự khâu vết mổ và ống thông có khả năng tự định hướng tới tim để hỗ trợ trong các cuộc phẫu thuật tim mạch.
+Y tế điện tử có rất nhiều ứng dụng vượt ra khỏi phạm vi của phòng phẫu thuật. Các bác sĩ có thể thực hiện phẫu thuật từ xa thông qua bàn tay robot hoặc trực tiếp hướng dẫn từng bước cho đồng nghiệp của họ. Đây là phương pháp cứu cánh cho những bệnh viện ở vùng quê, nơi thiếu thốn về nhân lực có kinh nghiệm trong các kỹ thuật khó và phức tạp.
+Bệnh viện Cleveland và Microsoft đã hợp tác trong dự án HoloLens để ứng dụng kính thực tế ảo vào trong phòng phẫu thuật. Hình ảnh thực tế ảo giúp các bác sĩ phẫu thuật dễ dàng hình dung các bước cần thực hiện, đồng thời thấy được cơ quan, khối u từ nhiều góc độ. HoloLens đã được ứng dụng trong phẩu thuật ghép mặt, động mạch chủ, điều trị ung thư buồng trứng và ung thư gan.
+Bệnh viện Mayo và công ty thiết bị chiếu sáng tự động Gentex, có trụ sở tại Michigan, Mỹ, đã kết hợp để tạo ra công nghệ đèn chiếu sử dụng các camera và thuật toán thị giác máy (machine-vision), để điều chỉnh cường độ và hướng chiếu, giúp giảm thiểu tối đa hiệu ứng loá và đổ bóng.
+Linh Phan (Theo Wall Street Journal)
+Ngày nay, các cảm biến, camera và thiết bị ghi âm được sử dụng để ghi lại thông tin về cách bác sĩ phẫu thuật thực hiện ca mổ, từ cách họ di chuyển tay, cách đưa đường cắt, cách tương tác với nhóm hỗ trợ và số lượng thiết bị phẫu thuật được dùng. Những dữ liệu này có thể được sử dụng để đào tạo, cũng như đánh giá chất lượng của các bác sĩ phẫu thuật mới.
+Các công ty đang tìm cách để tự động hóa và sử dụng ánh sáng để tiệt trùng cho phòng phẫu thuật. Các robot khử trùng, ví dụ như mẫu robot của công ty Xenex (có trụ sở tại San Antonio, Mỹ), có thể bắn ra các chùm tia UV và khử trùng phòng phẫu thuật trong vòng vài phút.
+Mục tiêu tương lai khi lượng dữ liệu đủ lớn là tạo ra những cảnh báo cho các bác sĩ khi họ vô tình gây nhiễm trùng, hoặc cắt quá gần với mạch máu lớn...
+Trung tâm Y tế Mayo Clinic đang sử dụng AI để phân tích dữ liệu một cách hệ thống về các ca phẫu thuật, điều mà trước đây không thể thực hiện một cách toàn diện và đầy đủ. Một trong những mục tiêu cuối cùng là dự doán trước các vấn đề y khoa chưa xảy ra hoặc tính toán rủi ro biến chứng hậu phẫu.
+Thực tế ảo tăng cường và công nghệ X-ray thế hệ mới
+Phòng phẫu thuật hiện đại là nơi ứng dụng những tiến bộ về khoa học công nghệ hàng đầu trong lĩnh vực y tế. Những thủ thuật trước đây được thực hiện bởi các y bác sĩ, nay có thể được thay thế bằng robot. Mục tiêu chung của những công nghệ này là cải thiện hiệu quả điều trị, nâng cao khả năng tiếp cận dịch vụ y tế, rút ngắn thời gian nằm viện và nâng cao hiệu quả hơn cho bác sĩ phẫu thuật.

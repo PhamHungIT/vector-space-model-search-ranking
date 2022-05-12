@@ -1,0 +1,10 @@
+Apple không dùng màn hình 120 Hz cho iPhone 12
+Apple được cho là đã bỏ công nghệ ProMotion 120 Hz trên iPhone 12 trước khi sản xuất hàng loạt do lo ngại tuổi thọ pin.
+Theo Ming-Chi Kuo, nhà phân tích từng đưa ra nhiều dự đoán về các thiết bị Apple chưa ra mắt, loạt iPhone 12 sẽ có pin "nhỏ hơn" iPhone 11 nhưng lại trang bị mạng di động 5G.
+Trước đó, hình ảnh được cho là ảnh chụp màn hình iPhone 12 Pro Max đăng bởi tài khoản @everythingapplepro cho thấy smartphone mới của Apple dùng màn hình 120 Hz giống sản phẩm cao cấp của Samsung. Tuy nhiên, Ross Young, nhà phân tích trong lĩnh vực màn hình, khẳng định Apple phải dời kế hoạch do đối tác không kịp cung cấp IC điều khiển màn hình 120 Hz.
+Cũng theo Kuo, mẫu iPhone 12 5,4 inch dự kiến đưa vào sản xuất hàng loạt vào đầu tháng 10. Máy sẽ có "tai thỏ" (notch) nhỏ hơn hiện tại. Theo "chuyên gia tin đồn" này, iPhone 12 5,4 inch nhỏ gọn sẽ có "vùng notch hẹp hơn để phần hiển thị thông tin các góc bên trái và bên phải tốt hơn".
+Cũng theo Kuo, Apple hiện vẫn nghiên cứu màn hình 120 Hz. Tuy nhiên, nó sẽ được tích hợp trên iPhone ra mắt năm 2021. "Quả táo" sẽ sử dụng màn hình polysilicon và oxit nhiệt độ thấp (LTPO) - công nghệ cho phép giảm đáng kể mức tiêu thụ điện năng của màn hình. Samsung hiện đã áp dụng LTPO cho Galaxy Note20 Ultra 5G ra mắt tháng trước.
+Bảo Lâm (theo Phonearena)
+Apple đã gửi thư mời ra mắt sản phẩm mới ngày 15/9. Tuy nhiên, nhiều khả năng iPhone 12 sẽ không xuất hiện tại sự kiện này, thay vào đó là loạt Apple Watch và iPad Air mới.
+Một số tin đồn cho biết Apple sẽ trang bị 5G cho loạt iPhone 12. Các model iPhone 12, 12 Max, 12 Pro sẽ dùng chuẩn 5G Sub-6, còn iPhone 12 Pro Max dùng chuẩn 5G mmWare tốc độ cao hơn.
+Kuo cho rằng, iPhone 12 sẽ tiết kiệm pin hơn nhờ chip A14 Bionic được sản xuất trên tiến trình 5 nm. Tuy nhiên, chip này khó có thể "gánh" được mức tiêu hao năng lượng từ chip 5G và màn hình ProMotion 120 Hz. Do đó, cuối cùng Apple đã bỏ màn hình tần số quét cao để tránh làm tổn hại đến trải nghiệm người dùng.

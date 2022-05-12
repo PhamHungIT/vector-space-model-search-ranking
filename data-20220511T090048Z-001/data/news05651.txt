@@ -1,0 +1,9 @@
+Nhiều Watch Series 3 bị lỗi sau khi cập nhật watchOS 7
+Nhiều Apple Watch Series 3 bị khởi động lại, hao pin, mất kết nối với iPhone, sau khi nâng cấp lên watchOS 7.
+Hôm 25/9, hãng này tung ra phiên bản watchOS 7.0.1 với mục đích sửa lỗi. Tuy nhiên, theo người dùng, bản cập nhật này không giải quyết được các vấn đề họ gặp. Trong khi đó, Apple không cho quay lại watchOS 6, buộc người dùng phải sử dụng đồng hồ với một hệ điều hành nhiều vấn đề.
+Lỗi này được ghi nhận chủ yếu trên Apple Watch Series 3. Có ý kiến cho rằng cấu hình của mẫu đồng hồ đã 3 năm tuổi này không thể đáp ứng được yêu cầu của hệ điều hành mới, dẫn đến sự cố. Tuy nhiên, mấu chốt nằm ở phía Apple. Công ty này vẫn tiếp tục kinh doanh Watch Series 3, khiến nhiều người tin tưởng đồng hồ còn được hỗ trợ lâu dài. Sau sự cố trên, nhiều chuyên gia nhận định có thể sẽ không có hệ điều hành watchOS 8 cho Watch Series 3 nữa.
+Apple hiện chưa có phản hồi về vấn đề này.
+Apple Watch Series 3 ra mắt năm 2017, được trang bị chip Apple S3, và hiện là mẫu đồng hồ rẻ nhất mà Apple đang kinh doanh. Sản phẩm có giá niêm yết rẻ nhất là 199 USD, cho phiên bản vỏ nhôm kích thước 38mm. Tại Việt Nam, Watch Series 3 có giá từ 5 đến 9,5 triệu đồng.
+Trong số đó, vấn đề tự khởi động là một trong những sự cố nghiêm trọng và nhiều người gặp nhất. Trên diễn đàn MacRumors, nhiều người đánh giá watchOS 7 là "bản cập tệ nhất mà Apple từng phát hành".
+"Đồng hồ của tôi tự động cập nhật lên watchOS 7 đêm qua. Hôm nay, nó đã tự động tắt ít nhất 3 lần, tự khóa khi đeo trên cổ tay 4 lần, mất kết nối với điện thoại 2 lần. Pin dùng sau 8 giờ chỉ còn dưới 50%, trong khi trước đây thường khoảng 80%", người dùng có tên Tjay64 chia sẻ. Trên trang hỗ trợ kỹ thuật của Apple, ít nhất 700 người dùng cho biết, họ cũng gặp phải hiện tượng tương tự Tjay64.
+Quý Văn

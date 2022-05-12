@@ -1,0 +1,8 @@
+Samsung giành được hợp đồng sản xuất chip cho Qualcomm
+Samsung Foundry đã vượt qua đối thủ TSMC từ Đài Loan để trở thành đối tác gia công chip 5G tầm trung mới nhất của Qualcomm.
+Theo thỏa thuận, Samsung sẽ sản xuất bộ vi xử lý Snapdragon 750 dựa trên tiến trình 8nm của hãng, tuy nhiên, giá trị chính xác của hợp đồng không được tiết lộ. Hiện chip của Qualcomm mới chỉ được sử dụng trên mẫu Xiaomi Mi 10 Lite 5G ra mắt cuối tháng 9. Samsung được cho là cũng sẽ sử dụng Snapdragon 750 trong smartphone tầm trung giá rẻ Galaxy A42, dự kiến trình làng cuối năm nay.
+Đăng Thiên (Theo Korean Investors)
+Ngoài hợp đồng sản xuất chip Snapdragon 750, Samsung trước đó cũng trúng thầu gia công chip Snapdragon 875 bằng quy trình EUV 5nm cho Qualcomm, GPU dòng RTX 3000 của Nvidia sử dụng tiến trình 8nm và chip trung tâm dữ liệu POWER10 sử dụng tiến trình 7nm.
+Samsung được cho là sẽ chi 8,6 tỷ USD mỗi năm để phát triển và cải tiến công nghệ chip cũng như mua thiết bị mới. Dù chỉ là công ty đi sau trong ngành công nghiệp gia công chip, Samsung đang cạnh tranh một cách mạnh mẽ với TSMC. Theo TrendForce, Samsung hiện chiếm 17,4% thị phần chế tạo chip với doanh thu dự kiến trong quý III năm 2020 là 3,67 tỉ USD.
+Giới phân tích cho rằng các hợp đồng lớn liên tiếp đến với Samsung cho thấy sức mạnh công nghệ của công ty Hàn Quốc đang dần bắt kịp với TSMC, hãng đang dẫn đầu thị trường gia công chip tiên tiến. TSMC và Samsung hiện là hai nhà sản xuất chip duy nhất có khả năng sản xuất số lượng lớn chip sử dụng công nghệ dưới 10 nm với giá cả cạnh tranh.
+Snapdragon 750 được xem là bản nâng cấp của Snapdragon 730G, được Qualcomm ra mắt hồi tháng 4 năm ngoái. Chip mới này được tích hợp modem X52 5G, hỗ trợ kết nối 5G ở dải tần số cao (mmWave) và thấp (sub-6 GHz).

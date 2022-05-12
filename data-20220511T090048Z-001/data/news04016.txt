@@ -1,0 +1,23 @@
+Những bài toán hay ở phổ thông
+Nhiều bài toán phổ thông cho kết quả vô lý từ những bước chứng minh hay biến đổi tưởng chừng hợp lý, gọi là bẫy.
+Cho bài toán sau:
+3. Bài toán tính căn bậc hai của 7x
+Cách giải trên cho ra một nghiệm của phương trình 2x2 = x là x = ½. Hãy tìm điểm sai trong cách giải này.
+Bài toán này nếu cẩn thận sẽ được viết lại thành (-3)2 = (-3)(-3) = 9. Như vậy sẽ không gây nhầm lẫn cho người giải.
+Cách giải trên sai vì với phép tính lũy thừa, giá trị bên trái của số mũ sẽ được tính lũy thừa. Như vậy trong bài toán này lũy thừa hai của (-3) đã không được tính mà tính giá trị âm sau khi lũy thừa 3.
+4. Bài toán 2x2 = x
+Giải:
+Như vậy phương trình có hai nghiệm phân biệt chứ không phải chỉ có một nghiệm.
+Các bạn thử tìm hiểu vì sao các phép biến đổi tương đương sau lại cho kết quả 2=1.
+Chúng ta biết bình phương của một số bất kỳ luôn luôn là số dương, vậy mời các bạn thử tìm lỗi sai trong cách giải bài toán bình phương của -3 sau:
+−32 = −3.3 = −9
+Hãy tìm điểm sai trong các phép biến đổi sau. Giả sử phép tính căn bậc 2 có thể áp dụng với số nguyên âm.
+Nguyễn Hữu PhátGiảng viên khoa Công nghệ thông tin, Đại học Hoa Sen
+1. Bài toán 2=1
+Các phép biến đổi tương đương trên sai ở bước thứ (5), vì theo giả thiết a=b nên (a-b)=0 và do vậy ta không thể có phép chia cho 0.
+5. Bài toán -1=1
+Mặc dù x = ½ là nghiệm của phương trình 2x2 = x nhưng một lần nữa, bài toán này liên quan đến phép chia cho 0. Cách giải đúng của phương trình trên phải là
+2. Bài toán bình phương của -3
+Dưới đây là 5 trong nhiều bài toán bẫy. Các bài này thoạt nhìn có vẻ rất hợp lý nhưng cho ra một kết quả sai. Khi làm, học sinh cần bình tĩnh phân tích điểm bất hợp lý và tìm ra điểm sai đó.
+2x2 = x <=> 2x = 1 <=> x = ½
+2x2 = x <=> 2x2 – x = 0 <=> x(2x – 1) = 0 <=> x = 0 hoặc x = ½.

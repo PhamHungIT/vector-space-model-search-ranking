@@ -1,0 +1,8 @@
+Bài toán gấp giấy của Nhật Bản
+Nổi tiếng bởi nghệ thuật gấp giấy Origami, Nhật Bản có nhiều bài toán liên quan. Dưới đây là bài dành cho học sinh lớp 6 từng làm khó nhiều người.
+Bước 1: Gấp chéo một cạnh dài của bao giấy từ dưới lên trên và tạo ra góc 23°. 
+Bước 2: Gấp đuôi bao giấy từ trên xuống dưới với vết gấp nằm đè lên mép trên.
+Tính góc x° tạo bởi vết gấp ở bước 1 với phần mép dưới ở đuôi giấy sau bước 2.
+Biết hai vết gấp và một đoạn chéo mép giấy tạo ra một tam giác cân có góc đáy là 23°.
+Đề bài: Một bao giấy bọc đũa có dạng hình chữ nhật như hình minh họa. Thực hiện liên tiếp hai thao tác gấp giấy Origami theo hai bước sau đây:
+Trần Phương

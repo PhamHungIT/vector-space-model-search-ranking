@@ -1,0 +1,12 @@
+Huawei không nhận đủ chip Kirin từ TSMC
+Huawei chỉ nhận chưa tới 9 triệu chip Kirin 9000 từ TSMC trước khi lệnh cấm của Mỹ có hiệu lực (15/9), dù đặt hàng 15 triệu chip.
+Kirin 9000 là chip được sản xuất trên tiến trình 5nm tương tự Apple A14 Bionic có mặt trên iPad Air 2020. Chip được dự đoán sẽ có khả năng xử lý vượt trội, tiết kiệm năng lượng và được tích hợp 5G.
+Một nguồn tin khác từ Weibo cũng xác nhận, TSMC đã giao cho HiSilicon - công ty con chuyên mảng bán dẫn của Huawei - 22.000 tấm wafer 5nm để sản xuất chip Kirin 9000. Mỗi tấm wafer - vật liệu nền để sản xuất vi mạch tích hợp - có thể tạo ra 400 khuôn, mỗi khuôn sẽ là một chip. Như vậy, con số chip sản xuất được là 8,8 triệu.
+Cả Huawei và TSMC đều chưa đưa ra bình luận.
+Còn theo báo cáo từ MyDrives, giá mỗi tấm wafer sử dụng cho tiến trình sản xuất chip 5nm của TSMC là 16.988 USD, đắt hơn nhiều so với tấm wafer cho tiến trình 7nm, với 9.346 USD. Dù vậy, giá đúc một chip 5nm là 238 USD, chỉ cao hơn 5 USD so với 233 USD của chip 7nm.
+Bên cạnh đó, ông Yu cũng cho biết Kirin 9000 sẽ là chip cao cấp cuối cùng của Huawei, được trang bị trên Mate 40 Series sắp ra mắt. Hãng sẽ không thể sản xuất bất kỳ chip xử lý nào khác, trừ khi lệnh cấm được Mỹ dỡ bỏ.
+Theo GizChina, TSMC đã không thể đẩy nhanh tiến độ sản xuất chip như kỳ vọng của Huawei. Đến trước ngày 15/9, hãng gia công chip lớn nhất thế giới có trụ sở tại Đài Loan chỉ có thể cung cấp 8,8 triệu chip Kirin 9000. Sau khoảng thời gian này, TSMC không thể tiếp tục sản xuất chip cho Huawei được nữa.
+Bảo Lâm tổng hợp
+Trước đó, Huawei cho biết sẽ giới thiệu dòng smartphone Mate 40 cao cấp trong tháng 10, đồng thời dự đoán doanh số vào khoảng 8 triệu máy. Với việc chỉ nhận được 8,8 triệu đơn vị chip, công ty Trung Quốc nhiều khả năng sẽ hết chip để sản xuất Mate 40 vào 2021.
+Việc Huawei bị cấm khiến tham vọng dẫn đầu mảng chip bị ngừng trệ. Richard Yu, Giám đốc mảng Kinh doanh Tiêu dùng của Huawei, thừa nhận HiSilicon không thể tiếp tục sản xuất chip di động thời gian tới.
+Đầu tháng 9 vừa rồi, chính phủ Mỹ lại siết chặt thêm hạn chế với cho các doanh nghiệp Mỹ chuyên cung cấp sản phẩm hoặc dịch vụ cho Huawei. Công ty đến từ Trung Quốc không thể mua bất kỳ loại chip nào được sản xuất bằng công nghệ Mỹ sau 15/9, trừ khi nhận được giấy phép đặc biệt.

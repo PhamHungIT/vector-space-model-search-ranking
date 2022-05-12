@@ -1,0 +1,11 @@
+Thêm chốt chặn để an toàn hơn khi thanh toán thẻ
+Một số quy định dự kiến được Ngân hàng Nhà nước bổ sung để đảm bảo thanh toán thẻ an toàn và bảo mật hơn.
+Trong hệ thống trang thiết bị phục vụ thanh toán thẻ, cần mã hoá tất cả các kết nối truy cập quản trị từ xa bằng phương pháp mã hoá mạnh, nhằm giảm thiểu rủi ro an ninh mạng.
+Để đảm bảo an toàn bảo mật với các trang thiết bị thanh toán thẻ, các ngân hàng và trung gian thanh toán cần xem xét công nghệ phần mềm ít nhất một năm một lần. Nếu phát hiện không còn được nhà cung cấp hỗ trợ hoặc không đáp ứng nhu cầu bảo mật, các đơn vị cần khắc phục và thay thế.
+Quỳnh Trang 
+Đồng thời, ngân hàng, tổ chức thanh toán thẻ và trung gian thanh toán không cung cấp địa chỉ mạng nội bộ và thông tin định tuyến cho tổ chức khác khi chưa được phép và cần có biện pháp để bảo vệ những thông tin này khi kết nối với bên thứ ba.
+Ngân hàng Nhà nước đang dự thảo sửa đổi Thông tư 47 quy định các yêu cầu kỹ thuật về an toàn bảo mật với trang thiết bị phục vụ thanh toán thẻ ngân hàng.
+Theo đó, với các tài khoản vận hành và tài khoản quản trị, ngân hàng và trung gian thanh toán cần quy định và thu hồi, loại bỏ hoặc vô hiệu hóa các tài khoản không sử dụng, hết hạn sử dụng, không hoạt động trong khoảng thời gian tối đa 90 ngày hoặc không kích hoạt trong một khoảng thời gian.
+Các tổ chức hoạt động chỉ chấp nhận các truy cập thực sự cần thiết theo thiết kế hệ thống đến môi trường dữ liệu chủ thẻ và chặn toàn bộ các truy cập khác. Bên cạnh đó, cần ngăn chặn kết nối Internet của các máy trạm có quyền truy cập vào dữ liệu thẻ dạng rõ (chưa che dấu, mã hóa).
+Ngoài ra, số thẻ phải được bảo mật khi hiển thị (chỉ hiển thị tối đa 6 số đầu và 4 số cuối) và chỉ một số nhân viên có thẩm quyền thao tác nghiệp vụ hoặc cơ quan thẩm quyền, chủ thẻ mới được phép xem thông tin đầy đủ.
+Việc truy cập vào tất cả thành phần hệ thống thanh toán thẻ phải được xác thực bằng ít nhất một trong các phương thức như mã khóa bí mật, thiết bị, thẻ xác thực và sinh trắc học.

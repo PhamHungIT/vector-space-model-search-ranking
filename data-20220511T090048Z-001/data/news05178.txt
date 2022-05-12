@@ -1,0 +1,10 @@
+SpaceX phóng thêm 60 vệ tinh Internet
+Sau hai lần trì hoãn do thời tiết xấu, SpaceX vào hôm qua đã đưa thành công lô vệ tinh Starlink thứ 13 lên quỹ đạo.
+Khoảng 9 phút sau khi phóng, tầng 1 của tên lửa đã tách ra và hạ cánh an toàn xuống sà lan không người lái mang tên "Of Course I Still Love You" trên Đại Tây Dương. Sau đó 52 phút, các vệ tinh cũng đồng loạt được triển khai vào quỹ đạo theo đúng kế hoạch.
+Việc bổ sung các thiết bị đầu cuối sẽ cho phép SpaceX kiểm tra mạng lưới vệ tinh của họ trên thực địa, cũng như tăng cường nỗ lực thu hồi tên lửa trên biển bằng cách trang bị cho các sà lan không người lái công cụ liên lạc tốt hơn.
+Các vệ tinh được gắn trên đỉnh tên lửa đẩy Falcon 9 đã cất cánh vào lúc 18h26 ngày 6/10 theo giờ Hà Nội từ Trung tâm Vũ trụ Kennedy của NASA ở bang Florida, Mỹ. Vụ phóng đánh dấu sứ mệnh thứ 17 của SpaceX trong năm 2020 và chuyến bay thứ 94 trong lịch sử của dòng tên lửa đẩy tái sử dụng Falcon 9.
+Người dùng trên mặt đất sẽ kết nối với dịch vụ mạng vệ tinh Starlink thông qua một thiết bị đầu cuối nhỏ, có kích thước tương đương máy tính xách tay. Musk nói rằng ông muốn các thiết bị đầu cuối này phải dễ sử dụng nhất có thể và trông giống như vật thể bay (UFO) đậu trên một cây gậy.
+SpaceX đang bước vào giai đoạn thử nghiệm beta cho "chòm sao Starlink" để tối ưu hóa độ trễ và kết nối, trước khi cung cấp dịch vụ cho những khách hàng đầu tiên ở Bắc Mỹ vào cuối năm nay. Công ty cho biết họ đã đạt được tốc độ downlink - tốc độ truyền dữ liệu từ vệ tinh xuống mặt đất - lên tới 100 megabit trên giây, với độ trễ rất thấp.
+Với việc bổ sung 60 thiết bị mới, tổng cộng 775 vệ tinh Starlink đã được SpaceX đưa lên quỹ đạo nhưng trong đó có hai chiếc thử nghiệm, không hoạt động. Công ty vũ trụ tư nhân của Elon Musk có kế hoạch phóng thêm hàng chục nghìn thiết bị nữa để hoàn thiện mạng lưới vệ tinh phủ sóng Internet tốc độ cao, băng thông rộng trên phạm vi toàn cầu.
+SpaceX cũng đã bắt đầu thử nghiệm các liên kết laser liên vệ tinh, cho phép dữ liệu truyền qua mạng lưới mà không cần thông qua các trạm trên mặt đất. Đây là tính năng mới mà các lô vệ tinh Starlink ban đầu không có.
+Đoàn Dương (Theo Space)
